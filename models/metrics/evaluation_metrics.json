@@ -1,0 +1,16 @@
+{
+  "collaborative_filtering": {
+    "rmse": 11.26900910403569,
+    "precision@10": 0.3984198645598194,
+    "recall@10": 0.998110993596321,
+    "f1@10": 0.5695072823659031
+  },
+  "business_recommendation": {
+    "precision@5": 0.6809999999999999,
+    "recall@5": 0.19482099885408707,
+    "f1@5": 0.30296852985534956,
+    "category_coverage": 1.0
+  },
+  "hybrid_score": 0.5531061819314851,
+  "timestamp": "2025-05-03 07:06:42"
+}

@@ -1,0 +1,501 @@
+CustomerID,FirstName,LastName,CompanyName,CustomerType,Segment,City,Region,Country,PurchasesPerMonth,AvgPurchaseValue,LocalPreference,JoinDate
+10001,Ibrahim,Abdallah,Abdallah Enterprises,Business,Wholesaler,Ismailia,Suez Canal,Egypt,5,479.52,0.56,2016-07-15
+10002,Mohamed,Soliman,Soliman Company,Business,Retailer,Qena,Upper Egypt,Egypt,7,476.32,0.46,2017-01-17
+10003,Mona,Farouk,,Individual,Regular,Marsa Matruh,Mediterranean Coast,Egypt,7,152.45,0.31,2021-06-27
+10004,Nour,Gamal,Gamal Industries,Business,Wholesaler,Safaga,Red Sea,Egypt,13,69.13,0.65,2017-04-28
+10005,Eman,Salah,Salah Industries,Business,Distributor,Port Tawfik,Suez Canal,Egypt,12,353.02,0.29,2023-10-13
+10006,Yasmin,Samy,Samy Company,Business,Wholesaler,Qena,Upper Egypt,Egypt,5,468.62,0.35,2018-11-16
+10007,Ahmed,Hassan,Hassan Industries,Business,Wholesaler,Hurghada,Red Sea,Egypt,2,444.25,0.65,2020-09-15
+10008,Noha,Hussein,Hussein Company,Business,Manufacturer,6th of October,Greater Cairo,Egypt,12,201.62,0.34,2023-04-28
+10009,Khaled,Adel,Adel Trading,Business,Distributor,Zagazig,Nile Delta,Egypt,1,132.73,0.42,2022-02-10
+10010,Mahmoud,Saad,Saad Enterprises,Business,Wholesaler,Tanta,Nile Delta,Egypt,19,257.46,0.79,2023-12-19
+10011,Ibrahim,Elsherbiny,Elsherbiny Enterprises,Business,Manufacturer,Port Tawfik,Suez Canal,Egypt,11,31.3,0.11,2016-03-18
+10012,Hassan,Saad,,Individual,Regular,El Arish,Sinai,Egypt,13,405.93,0.85,2017-11-08
+10013,Ramy,Saad,,Individual,Regular,Beni Suef,Upper Egypt,Egypt,4,198.28,0.81,2017-12-18
+10014,Rania,Saad,Saad Industries,Business,Manufacturer,6th of October,Greater Cairo,Egypt,13,377.73,0.39,2018-04-30
+10015,Dalia,Gamal,,Individual,Economy,Sharm El Sheikh,Sinai,Egypt,3,456.39,0.74,2018-05-17
+10016,Eman,Saad,,Individual,Premium,Cairo,Greater Cairo,Egypt,5,400.34,0.76,2023-02-25
+10017,Karim,Farouk,Farouk Industries,Business,Manufacturer,Qena,Upper Egypt,Egypt,10,120.63,0.81,2017-06-26
+10018,Walid,Magdy,Magdy Company,Business,Manufacturer,Zagazig,Nile Delta,Egypt,13,409.87,0.11,2024-12-10
+10019,Sherif,Abdelrahman,,Individual,Economy,Alexandria,Mediterranean Coast,Egypt,18,105.72,0.68,2022-06-01
+10020,Yasmin,Magdy,Magdy Trading,Business,Distributor,Assiut,Upper Egypt,Egypt,11,409.19,0.25,2024-08-20
+10021,Mostafa,Youssef,Youssef Enterprises,Business,Distributor,Giza,Greater Cairo,Egypt,4,357.95,0.36,2022-08-21
+10022,Ghada,Mostafa,Mostafa Group,Business,Retailer,Alexandria,Mediterranean Coast,Egypt,14,44.92,0.59,2016-01-27
+10023,Rania,Gamal,Gamal Industries,Business,Manufacturer,Fayoum,Upper Egypt,Egypt,15,48.48,0.47,2016-12-21
+10024,Ali,Adel,Adel Trading,Business,Retailer,Kafr El Sheikh,Nile Delta,Egypt,9,191.31,0.72,2022-09-25
+10025,Rasha,Abouzeid,,Individual,Regular,Damietta,Mediterranean Coast,Egypt,16,186.83,0.36,2024-10-16
+10026,Amira,Elsherbiny,Elsherbiny Company,Business,Retailer,Marsa Matruh,Mediterranean Coast,Egypt,1,266.98,0.64,2016-06-01
+10027,Youssef,Ali,,Individual,Economy,Luxor,Upper Egypt,Egypt,5,476.84,0.88,2023-06-14
+10028,Mohamed,Hussein,,Individual,Premium,El Arish,Sinai,Egypt,8,399.6,0.26,2017-08-19
+10029,Sherif,Abdelaziz,Abdelaziz Trading,Business,Retailer,Sharm El Sheikh,Sinai,Egypt,17,453.34,0.13,2023-07-15
+10030,Karim,Abdelrahman,Abdelrahman Enterprises,Business,Manufacturer,Qena,Upper Egypt,Egypt,6,256.18,0.81,2023-10-26
+10031,Walid,Nasser,Nasser Industries,Business,Wholesaler,New Cairo,Greater Cairo,Egypt,11,338.0,0.59,2025-02-12
+10032,Amr,Zaki,Zaki Trading,Business,Wholesaler,Fayoum,Upper Egypt,Egypt,20,274.15,0.56,2023-08-18
+10033,Omar,Abouzeid,Abouzeid Industries,Business,Manufacturer,Aswan,Upper Egypt,Egypt,8,85.74,0.8,2023-05-18
+10034,Eman,Elsayed,,Individual,Economy,Assiut,Upper Egypt,Egypt,7,490.02,0.66,2022-02-10
+10035,Fatma,Mahmoud,,Individual,Premium,Cairo,Greater Cairo,Egypt,10,417.05,0.41,2015-12-17
+10036,Rania,Hussein,,Individual,Regular,Tanta,Nile Delta,Egypt,13,287.46,0.74,2024-05-16
+10037,Ramy,Youssef,,Individual,Economy,Damietta,Mediterranean Coast,Egypt,2,423.25,0.55,2020-04-19
+10038,Walid,Gamal,,Individual,Regular,Suez,Suez Canal,Egypt,7,56.58,0.88,2015-05-11
+10039,Laila,Hassan,Hassan Industries,Business,Manufacturer,Minya,Upper Egypt,Egypt,20,434.4,0.1,2025-02-04
+10040,Amira,Zaki,Zaki Company,Business,Manufacturer,6th of October,Greater Cairo,Egypt,1,339.68,0.1,2023-07-29
+10041,Mona,Abouzeid,Abouzeid Enterprises,Business,Wholesaler,Sharm El Sheikh,Sinai,Egypt,15,169.42,0.83,2018-08-08
+10042,Dina,Youssef,,Individual,Premium,Suez,Suez Canal,Egypt,15,73.53,0.73,2018-02-25
+10043,Nour,Ali,Ali Enterprises,Business,Distributor,Cairo,Greater Cairo,Egypt,9,324.23,0.54,2020-09-25
+10044,Noha,Youssef,Youssef Industries,Business,Wholesaler,Alexandria,Mediterranean Coast,Egypt,1,410.14,0.68,2020-08-22
+10045,Ibrahim,Ali,Ali Trading,Business,Manufacturer,Sharm El Sheikh,Sinai,Egypt,13,264.31,0.44,2019-12-16
+10046,Ayman,Ahmed,Ahmed Group,Business,Distributor,Assiut,Upper Egypt,Egypt,15,418.21,0.22,2022-06-28
+10047,Amira,Fathy,,Individual,Premium,Tanta,Nile Delta,Egypt,18,112.9,0.21,2017-10-13
+10048,Hossam,Ibrahim,,Individual,Premium,Mansoura,Nile Delta,Egypt,13,72.05,0.69,2020-05-18
+10049,Amira,Hussein,,Individual,Economy,New Cairo,Greater Cairo,Egypt,1,404.95,0.87,2020-11-18
+10050,Salma,Farouk,Farouk Industries,Business,Manufacturer,Kafr El Sheikh,Nile Delta,Egypt,3,76.84,0.81,2019-11-03
+10051,Heba,Fathy,Fathy Industries,Business,Wholesaler,Giza,Greater Cairo,Egypt,19,20.79,0.61,2022-06-10
+10052,Laila,Elsherbiny,,Individual,Economy,Giza,Greater Cairo,Egypt,9,79.02,0.15,2023-11-13
+10053,Hassan,Abdelhamid,Abdelhamid Enterprises,Business,Retailer,Marsa Matruh,Mediterranean Coast,Egypt,12,79.2,0.56,2021-09-02
+10054,Walid,Mostafa,Mostafa Trading,Business,Manufacturer,El Arish,Sinai,Egypt,3,275.13,0.75,2022-02-17
+10055,Nour,Ali,Ali Industries,Business,Retailer,Minya,Upper Egypt,Egypt,11,157.4,0.17,2017-01-17
+10056,Mostafa,Ali,Ali Industries,Business,Distributor,Ismailia,Suez Canal,Egypt,20,384.11,0.68,2018-08-09
+10057,Amira,Ibrahim,,Individual,Regular,Safaga,Red Sea,Egypt,13,432.05,0.41,2023-12-08
+10058,Rasha,Hassan,,Individual,Economy,Ismailia,Suez Canal,Egypt,18,496.37,0.17,2020-02-29
+10059,Aisha,Samir,Samir Company,Business,Manufacturer,Fayoum,Upper Egypt,Egypt,2,182.25,0.49,2017-09-22
+10060,Sarah,Elsayed,Elsayed Trading,Business,Wholesaler,Port Tawfik,Suez Canal,Egypt,7,80.0,0.23,2016-03-18
+10061,Ghada,Farouk,,Individual,Premium,Port Tawfik,Suez Canal,Egypt,6,127.92,0.39,2021-09-27
+10062,Dalia,Samir,Samir Group,Business,Wholesaler,Fayoum,Upper Egypt,Egypt,13,157.37,0.7,2019-11-05
+10063,Aisha,Hassan,Hassan Company,Business,Distributor,Damanhur,Nile Delta,Egypt,7,40.18,0.33,2023-06-12
+10064,Rasha,Abdallah,Abdallah Trading,Business,Manufacturer,Luxor,Upper Egypt,Egypt,20,109.45,0.63,2016-08-04
+10065,Mahmoud,Gamal,Gamal Industries,Business,Retailer,Beni Suef,Upper Egypt,Egypt,16,237.46,0.47,2019-03-09
+10066,Tarek,Magdy,Magdy Enterprises,Business,Retailer,Giza,Greater Cairo,Egypt,8,101.79,0.49,2020-03-01
+10067,Hassan,Ahmed,,Individual,Premium,Cairo,Greater Cairo,Egypt,4,498.64,0.9,2017-09-06
+10068,Nour,Ali,,Individual,Premium,Fayoum,Upper Egypt,Egypt,3,145.37,0.88,2016-06-13
+10069,Youssef,Elsherbiny,Elsherbiny Trading,Business,Manufacturer,6th of October,Greater Cairo,Egypt,19,232.66,0.13,2016-01-07
+10070,Salma,Abdelaziz,Abdelaziz Company,Business,Distributor,El Arish,Sinai,Egypt,12,446.23,0.82,2023-09-02
+10071,Mariam,Fouad,Fouad Group,Business,Manufacturer,Zagazig,Nile Delta,Egypt,20,231.14,0.67,2021-11-03
+10072,Nour,Youssef,,Individual,Premium,Tanta,Nile Delta,Egypt,14,322.94,0.48,2024-02-12
+10073,Mohamed,Samy,Samy Industries,Business,Manufacturer,Fayoum,Upper Egypt,Egypt,20,43.74,0.25,2021-10-23
+10074,Dalia,Fouad,,Individual,Regular,Cairo,Greater Cairo,Egypt,18,363.99,0.38,2024-12-05
+10075,Aisha,Elsayed,Elsayed Industries,Business,Retailer,Aswan,Upper Egypt,Egypt,1,312.73,0.74,2016-01-30
+10076,Amr,Saad,Saad Group,Business,Retailer,Marsa Matruh,Mediterranean Coast,Egypt,6,442.16,0.72,2022-05-23
+10077,Ahmed,Mostafa,,Individual,Economy,Sohag,Upper Egypt,Egypt,20,62.49,0.6,2018-12-18
+10078,Walid,Abdallah,Abdallah Trading,Business,Distributor,Tanta,Nile Delta,Egypt,12,170.01,0.81,2015-06-16
+10079,Hossam,Ibrahim,Ibrahim Company,Business,Wholesaler,Sharm El Sheikh,Sinai,Egypt,7,218.52,0.8,2015-09-12
+10080,Mona,Hassan,Hassan Enterprises,Business,Wholesaler,Sharm El Sheikh,Sinai,Egypt,6,346.65,0.89,2020-04-02
+10081,Rania,Farouk,Farouk Enterprises,Business,Retailer,Fayoum,Upper Egypt,Egypt,15,12.68,0.9,2017-10-11
+10082,Ahmed,Samir,Samir Group,Business,Retailer,Qena,Upper Egypt,Egypt,11,111.25,0.74,2018-12-01
+10083,Dina,Nasser,Nasser Trading,Business,Retailer,6th of October,Greater Cairo,Egypt,18,456.72,0.12,2022-12-08
+10084,Salma,Ahmed,Ahmed Enterprises,Business,Manufacturer,Sohag,Upper Egypt,Egypt,6,403.36,0.78,2015-10-06
+10085,Amr,Mostafa,,Individual,Regular,Dahab,Sinai,Egypt,10,159.5,0.19,2018-10-19
+10086,Tarek,Abdelhamid,,Individual,Regular,Safaga,Red Sea,Egypt,7,66.35,0.77,2025-03-01
+10087,Hoda,Abdallah,Abdallah Industries,Business,Wholesaler,El Arish,Sinai,Egypt,15,64.95,0.71,2021-02-09
+10088,Mona,Mansour,Mansour Group,Business,Manufacturer,Dahab,Sinai,Egypt,1,54.44,0.88,2019-08-19
+10089,Nour,Nasser,,Individual,Premium,Port Said,Mediterranean Coast,Egypt,14,339.62,0.55,2016-09-10
+10090,Aisha,Zaki,Zaki Enterprises,Business,Distributor,Suez,Suez Canal,Egypt,17,319.1,0.32,2023-10-30
+10091,Soha,Abdelaziz,Abdelaziz Trading,Business,Distributor,Minya,Upper Egypt,Egypt,20,148.37,0.79,2016-06-20
+10092,Ibrahim,Zaki,Zaki Group,Business,Retailer,Fayoum,Upper Egypt,Egypt,3,212.26,0.4,2019-09-23
+10093,Mona,Abdallah,Abdallah Industries,Business,Distributor,Minya,Upper Egypt,Egypt,2,367.59,0.43,2015-09-03
+10094,Ibrahim,Nasser,Nasser Trading,Business,Retailer,Dahab,Sinai,Egypt,19,224.97,0.64,2015-11-16
+10095,Salma,Abdelaziz,,Individual,Premium,Giza,Greater Cairo,Egypt,8,411.88,0.9,2018-11-20
+10096,Ahmed,Abdallah,,Individual,Economy,Ismailia,Suez Canal,Egypt,20,388.61,0.52,2018-12-04
+10097,Mariam,Nasser,,Individual,Premium,Port Said,Mediterranean Coast,Egypt,6,474.63,0.51,2015-06-30
+10098,Laila,Nasser,Nasser Company,Business,Manufacturer,New Cairo,Greater Cairo,Egypt,1,390.86,0.29,2021-03-29
+10099,Fatma,Soliman,Soliman Enterprises,Business,Wholesaler,Sohag,Upper Egypt,Egypt,5,438.4,0.22,2018-08-06
+10100,Ghada,Elsherbiny,,Individual,Regular,Aswan,Upper Egypt,Egypt,4,367.45,0.19,2017-12-21
+10101,Dalia,Samir,,Individual,Economy,Minya,Upper Egypt,Egypt,16,103.74,0.47,2022-10-20
+10102,Hassan,Saad,Saad Group,Business,Retailer,Dahab,Sinai,Egypt,3,408.38,0.11,2023-07-29
+10103,Ali,Gamal,Gamal Enterprises,Business,Manufacturer,Qena,Upper Egypt,Egypt,6,146.95,0.7,2016-06-03
+10104,Rasha,Abdelrahman,,Individual,Premium,Cairo,Greater Cairo,Egypt,13,312.1,0.61,2024-10-09
+10105,Youssef,Ali,Ali Enterprises,Business,Distributor,Giza,Greater Cairo,Egypt,1,137.58,0.55,2019-09-28
+10106,Yasmin,Nasser,Nasser Trading,Business,Wholesaler,Beni Suef,Upper Egypt,Egypt,20,187.11,0.88,2020-02-24
+10107,Aisha,Gamal,Gamal Group,Business,Wholesaler,Beni Suef,Upper Egypt,Egypt,20,236.3,0.36,2020-10-11
+10108,Dina,Fathy,Fathy Enterprises,Business,Manufacturer,Aswan,Upper Egypt,Egypt,17,175.04,0.44,2023-10-18
+10109,Ramy,Saad,Saad Group,Business,Wholesaler,Port Tawfik,Suez Canal,Egypt,5,413.62,0.76,2021-01-08
+10110,Sherif,Ahmed,,Individual,Premium,Fayoum,Upper Egypt,Egypt,2,91.35,0.31,2018-05-20
+10111,Rania,Elsayed,Elsayed Enterprises,Business,Retailer,Giza,Greater Cairo,Egypt,12,342.88,0.37,2016-04-05
+10112,Yasmin,Adel,Adel Trading,Business,Distributor,Port Tawfik,Suez Canal,Egypt,9,226.58,0.41,2016-12-11
+10113,Ghada,Fathy,Fathy Company,Business,Wholesaler,Giza,Greater Cairo,Egypt,16,139.8,0.86,2022-05-21
+10114,Ramy,Fouad,Fouad Group,Business,Retailer,Safaga,Red Sea,Egypt,1,229.21,0.64,2024-03-14
+10115,Sherif,Hassan,Hassan Enterprises,Business,Manufacturer,Beni Suef,Upper Egypt,Egypt,16,36.63,0.88,2017-07-28
+10116,Khaled,Elsherbiny,Elsherbiny Enterprises,Business,Retailer,Port Tawfik,Suez Canal,Egypt,2,303.99,0.29,2018-07-15
+10117,Khaled,Abdelaziz,,Individual,Economy,Aswan,Upper Egypt,Egypt,7,378.11,0.19,2017-12-14
+10118,Hassan,Adel,Adel Industries,Business,Retailer,Zagazig,Nile Delta,Egypt,10,370.62,0.77,2024-10-07
+10119,Ghada,Mohamed,,Individual,Economy,Port Said,Mediterranean Coast,Egypt,4,115.09,0.86,2018-12-20
+10120,Dina,Nasser,Nasser Group,Business,Retailer,Port Tawfik,Suez Canal,Egypt,19,491.65,0.36,2021-09-07
+10121,Nour,Abdelhamid,,Individual,Economy,New Cairo,Greater Cairo,Egypt,1,125.01,0.72,2017-10-18
+10122,Rania,Youssef,Youssef Industries,Business,Retailer,Ismailia,Suez Canal,Egypt,16,161.31,0.77,2024-12-17
+10123,Mostafa,Adel,,Individual,Premium,Fayoum,Upper Egypt,Egypt,11,106.48,0.82,2020-07-22
+10124,Ibrahim,Ahmed,Ahmed Trading,Business,Manufacturer,Minya,Upper Egypt,Egypt,8,174.34,0.79,2016-07-25
+10125,Mostafa,Nasser,,Individual,Regular,Tanta,Nile Delta,Egypt,13,493.35,0.52,2016-07-15
+10126,Fatma,Abouzeid,,Individual,Regular,Sharm El Sheikh,Sinai,Egypt,7,189.73,0.56,2017-03-31
+10127,Rasha,Mansour,,Individual,Economy,Alexandria,Mediterranean Coast,Egypt,10,497.25,0.86,2019-05-24
+10128,Mariam,Elsherbiny,Elsherbiny Industries,Business,Retailer,Sharm El Sheikh,Sinai,Egypt,1,333.97,0.85,2016-02-07
+10129,Ghada,Salah,Salah Company,Business,Distributor,Suez,Suez Canal,Egypt,2,307.57,0.36,2024-09-03
+10130,Dalia,Abouzeid,Abouzeid Trading,Business,Wholesaler,Assiut,Upper Egypt,Egypt,16,276.82,0.8,2018-10-14
+10131,Amira,Hussein,Hussein Enterprises,Business,Retailer,Dahab,Sinai,Egypt,13,125.77,0.38,2023-06-15
+10132,Hossam,Gamal,Gamal Trading,Business,Manufacturer,6th of October,Greater Cairo,Egypt,13,199.29,0.81,2020-09-25
+10133,Heba,Mostafa,,Individual,Regular,Sohag,Upper Egypt,Egypt,1,77.02,0.23,2019-03-30
+10134,Hossam,Mohamed,Mohamed Company,Business,Distributor,New Cairo,Greater Cairo,Egypt,14,327.22,0.82,2020-02-05
+10135,Mohamed,Magdy,,Individual,Regular,Hurghada,Red Sea,Egypt,10,166.41,0.12,2023-03-22
+10136,Rasha,Samy,Samy Enterprises,Business,Wholesaler,El Arish,Sinai,Egypt,13,85.06,0.73,2021-09-14
+10137,Omar,Elsayed,Elsayed Group,Business,Wholesaler,Ismailia,Suez Canal,Egypt,6,12.71,0.6,2023-08-20
+10138,Nour,Abdelrahman,Abdelrahman Enterprises,Business,Distributor,Sohag,Upper Egypt,Egypt,12,386.34,0.14,2018-12-21
+10139,Mohamed,Abouzeid,Abouzeid Enterprises,Business,Retailer,Giza,Greater Cairo,Egypt,8,174.63,0.12,2015-08-03
+10140,Ali,Abouzeid,,Individual,Premium,Beni Suef,Upper Egypt,Egypt,12,385.51,0.31,2024-07-21
+10141,Eman,Fouad,Fouad Company,Business,Distributor,Damietta,Mediterranean Coast,Egypt,18,98.11,0.34,2024-06-23
+10142,Hoda,Magdy,,Individual,Regular,Marsa Matruh,Mediterranean Coast,Egypt,3,327.17,0.76,2020-07-10
+10143,Dalia,Zaki,Zaki Group,Business,Manufacturer,Mansoura,Nile Delta,Egypt,7,274.12,0.79,2021-09-28
+10144,Rasha,Farouk,,Individual,Economy,New Cairo,Greater Cairo,Egypt,14,341.76,0.84,2020-06-03
+10145,Ayman,Soliman,Soliman Industries,Business,Manufacturer,Beni Suef,Upper Egypt,Egypt,5,43.19,0.1,2021-01-27
+10146,Mostafa,Zaki,,Individual,Premium,Alexandria,Mediterranean Coast,Egypt,4,125.57,0.44,2015-10-12
+10147,Fatma,Elsherbiny,,Individual,Economy,Ismailia,Suez Canal,Egypt,3,436.43,0.57,2017-01-12
+10148,Nour,Mahmoud,,Individual,Premium,Luxor,Upper Egypt,Egypt,9,326.56,0.83,2021-12-24
+10149,Ramy,Ahmed,Ahmed Trading,Business,Wholesaler,New Cairo,Greater Cairo,Egypt,11,196.88,0.73,2016-04-24
+10150,Sarah,Nasser,Nasser Enterprises,Business,Wholesaler,Sohag,Upper Egypt,Egypt,16,147.01,0.47,2021-10-26
+10151,Sarah,Ibrahim,,Individual,Regular,Fayoum,Upper Egypt,Egypt,16,243.01,0.76,2018-04-17
+10152,Nour,Saad,,Individual,Premium,Kafr El Sheikh,Nile Delta,Egypt,20,458.83,0.87,2024-01-02
+10153,Hossam,Elsayed,Elsayed Enterprises,Business,Distributor,Dahab,Sinai,Egypt,3,415.9,0.58,2017-02-06
+10154,Khaled,Hussein,,Individual,Premium,Kafr El Sheikh,Nile Delta,Egypt,17,402.6,0.3,2020-08-29
+10155,Mariam,Fathy,Fathy Group,Business,Retailer,Suez,Suez Canal,Egypt,10,339.48,0.13,2019-11-10
+10156,Rasha,Nasser,Nasser Enterprises,Business,Retailer,Safaga,Red Sea,Egypt,15,336.45,0.68,2023-04-03
+10157,Laila,Gamal,,Individual,Economy,Suez,Suez Canal,Egypt,1,334.27,0.69,2020-02-06
+10158,Hassan,Magdy,,Individual,Regular,Marsa Matruh,Mediterranean Coast,Egypt,2,112.92,0.38,2022-02-24
+10159,Sameh,Ahmed,Ahmed Company,Business,Retailer,Mansoura,Nile Delta,Egypt,3,303.34,0.14,2020-12-12
+10160,Mohamed,Mohamed,Mohamed Industries,Business,Retailer,Minya,Upper Egypt,Egypt,4,160.72,0.25,2018-01-16
+10161,Hussein,Ali,,Individual,Economy,Alexandria,Mediterranean Coast,Egypt,13,140.31,0.28,2018-07-17
+10162,Amira,Fouad,Fouad Enterprises,Business,Distributor,Fayoum,Upper Egypt,Egypt,16,476.06,0.74,2019-07-13
+10163,Hassan,Ali,Ali Trading,Business,Distributor,Alexandria,Mediterranean Coast,Egypt,9,488.37,0.89,2024-03-26
+10164,Ghada,Ali,Ali Enterprises,Business,Retailer,New Cairo,Greater Cairo,Egypt,6,87.91,0.36,2021-09-21
+10165,Youssef,Elsherbiny,,Individual,Regular,Alexandria,Mediterranean Coast,Egypt,5,271.41,0.26,2023-11-15
+10166,Mahmoud,Youssef,Youssef Group,Business,Manufacturer,Tanta,Nile Delta,Egypt,6,123.85,0.47,2022-07-14
+10167,Ayman,Elsherbiny,Elsherbiny Industries,Business,Distributor,Beni Suef,Upper Egypt,Egypt,20,217.38,0.77,2023-12-02
+10168,Ali,Zaki,Zaki Industries,Business,Distributor,Giza,Greater Cairo,Egypt,13,471.4,0.69,2024-05-28
+10169,Tarek,Ahmed,Ahmed Group,Business,Retailer,Cairo,Greater Cairo,Egypt,4,92.38,0.49,2024-04-25
+10170,Ibrahim,Nasser,Nasser Industries,Business,Retailer,Beni Suef,Upper Egypt,Egypt,10,193.31,0.61,2019-12-17
+10171,Mostafa,Fouad,,Individual,Regular,Damietta,Mediterranean Coast,Egypt,2,295.86,0.59,2017-01-09
+10172,Rasha,Adel,,Individual,Regular,Hurghada,Red Sea,Egypt,14,448.35,0.73,2017-05-22
+10173,Rasha,Hassan,Hassan Group,Business,Distributor,Zagazig,Nile Delta,Egypt,12,159.87,0.66,2019-05-04
+10174,Hossam,Elsayed,Elsayed Enterprises,Business,Wholesaler,El Arish,Sinai,Egypt,6,339.2,0.82,2016-05-04
+10175,Noha,Youssef,Youssef Enterprises,Business,Distributor,Luxor,Upper Egypt,Egypt,20,227.66,0.1,2018-03-26
+10176,Khaled,Mansour,,Individual,Economy,Aswan,Upper Egypt,Egypt,15,359.66,0.73,2015-12-17
+10177,Karim,Salah,,Individual,Economy,Sohag,Upper Egypt,Egypt,5,358.35,0.66,2015-07-08
+10178,Amr,Mahmoud,Mahmoud Company,Business,Wholesaler,Giza,Greater Cairo,Egypt,12,343.83,0.52,2023-03-04
+10179,Sarah,Mahmoud,Mahmoud Group,Business,Distributor,Beni Suef,Upper Egypt,Egypt,17,287.98,0.21,2017-05-22
+10180,Khaled,Abdallah,Abdallah Enterprises,Business,Manufacturer,Safaga,Red Sea,Egypt,17,236.87,0.23,2018-01-17
+10181,Amira,Samy,Samy Company,Business,Wholesaler,Damietta,Mediterranean Coast,Egypt,16,283.73,0.67,2016-10-15
+10182,Dina,Abdelrahman,Abdelrahman Trading,Business,Wholesaler,Alexandria,Mediterranean Coast,Egypt,6,55.35,0.47,2018-05-28
+10183,Sarah,Saad,Saad Trading,Business,Retailer,El Arish,Sinai,Egypt,12,307.7,0.18,2015-09-11
+10184,Amr,Mahmoud,Mahmoud Industries,Business,Retailer,Cairo,Greater Cairo,Egypt,20,487.23,0.53,2023-10-04
+10185,Ghada,Samy,Samy Trading,Business,Distributor,Zagazig,Nile Delta,Egypt,14,407.24,0.34,2020-10-02
+10186,Soha,Gamal,Gamal Group,Business,Manufacturer,Cairo,Greater Cairo,Egypt,11,34.77,0.73,2016-04-21
+10187,Youssef,Elsayed,,Individual,Regular,6th of October,Greater Cairo,Egypt,19,138.19,0.71,2021-12-11
+10188,Nour,Abdallah,Abdallah Company,Business,Wholesaler,Dahab,Sinai,Egypt,19,199.86,0.22,2020-08-13
+10189,Sameh,Elsherbiny,Elsherbiny Enterprises,Business,Wholesaler,Assiut,Upper Egypt,Egypt,7,244.61,0.7,2021-10-21
+10190,Ali,Abdelhamid,,Individual,Premium,Port Said,Mediterranean Coast,Egypt,13,85.09,0.3,2021-10-01
+10191,Aisha,Mahmoud,,Individual,Economy,Safaga,Red Sea,Egypt,12,235.4,0.67,2019-03-22
+10192,Sherif,Adel,,Individual,Regular,6th of October,Greater Cairo,Egypt,5,281.98,0.8,2016-03-02
+10193,Ahmed,Farouk,Farouk Company,Business,Manufacturer,Assiut,Upper Egypt,Egypt,13,51.0,0.84,2023-07-14
+10194,Omar,Saad,,Individual,Economy,Port Said,Mediterranean Coast,Egypt,12,475.35,0.33,2020-10-09
+10195,Noha,Ahmed,,Individual,Regular,Mansoura,Nile Delta,Egypt,19,440.47,0.76,2022-05-24
+10196,Eman,Nasser,,Individual,Premium,Luxor,Upper Egypt,Egypt,12,173.96,0.36,2022-03-28
+10197,Mostafa,Hassan,Hassan Trading,Business,Wholesaler,El Arish,Sinai,Egypt,14,472.76,0.58,2018-11-07
+10198,Ramy,Farouk,,Individual,Economy,Damanhur,Nile Delta,Egypt,19,180.81,0.66,2016-07-24
+10199,Ayman,Mostafa,Mostafa Enterprises,Business,Retailer,Assiut,Upper Egypt,Egypt,4,433.2,0.7,2017-05-25
+10200,Aisha,Hussein,Hussein Group,Business,Distributor,Fayoum,Upper Egypt,Egypt,6,126.39,0.49,2023-05-23
+10201,Sameh,Nasser,Nasser Company,Business,Distributor,Dahab,Sinai,Egypt,2,15.92,0.81,2021-09-11
+10202,Hossam,Fathy,Fathy Trading,Business,Manufacturer,Assiut,Upper Egypt,Egypt,19,468.41,0.56,2022-03-16
+10203,Sameh,Mahmoud,,Individual,Economy,Tanta,Nile Delta,Egypt,13,481.66,0.28,2020-12-09
+10204,Khaled,Magdy,Magdy Trading,Business,Retailer,Zagazig,Nile Delta,Egypt,10,38.52,0.17,2017-10-27
+10205,Laila,Mohamed,Mohamed Industries,Business,Retailer,El Arish,Sinai,Egypt,17,111.81,0.61,2015-08-12
+10206,Dalia,Youssef,,Individual,Economy,Ismailia,Suez Canal,Egypt,20,80.46,0.41,2016-07-04
+10207,Heba,Abdelhamid,Abdelhamid Group,Business,Retailer,Qena,Upper Egypt,Egypt,11,427.14,0.49,2015-12-07
+10208,Salma,Magdy,Magdy Industries,Business,Wholesaler,Alexandria,Mediterranean Coast,Egypt,13,330.08,0.66,2017-05-30
+10209,Youssef,Ali,Ali Industries,Business,Retailer,Minya,Upper Egypt,Egypt,18,462.31,0.22,2017-12-23
+10210,Omar,Mahmoud,Mahmoud Company,Business,Manufacturer,Ismailia,Suez Canal,Egypt,9,433.29,0.3,2016-06-29
+10211,Heba,Adel,Adel Enterprises,Business,Distributor,Tanta,Nile Delta,Egypt,13,498.17,0.57,2017-06-09
+10212,Soha,Ahmed,Ahmed Trading,Business,Distributor,Qena,Upper Egypt,Egypt,4,171.44,0.86,2017-01-14
+10213,Sarah,Zaki,,Individual,Premium,Hurghada,Red Sea,Egypt,12,484.45,0.3,2024-12-21
+10214,Khaled,Elsayed,Elsayed Industries,Business,Wholesaler,Port Tawfik,Suez Canal,Egypt,16,35.63,0.47,2019-08-08
+10215,Rasha,Soliman,Soliman Industries,Business,Distributor,New Cairo,Greater Cairo,Egypt,5,14.78,0.38,2016-06-02
+10216,Yasmin,Elsherbiny,,Individual,Regular,El Arish,Sinai,Egypt,10,62.46,0.38,2020-12-11
+10217,Hossam,Elsayed,Elsayed Industries,Business,Manufacturer,Assiut,Upper Egypt,Egypt,13,293.84,0.41,2015-11-02
+10218,Sarah,Mostafa,Mostafa Group,Business,Distributor,Assiut,Upper Egypt,Egypt,11,260.68,0.11,2018-12-08
+10219,Ali,Ali,Ali Trading,Business,Retailer,Ismailia,Suez Canal,Egypt,7,52.26,0.81,2017-11-08
+10220,Tarek,Elsherbiny,Elsherbiny Company,Business,Distributor,Marsa Matruh,Mediterranean Coast,Egypt,10,364.02,0.66,2018-11-11
+10221,Khaled,Samir,Samir Trading,Business,Distributor,Zagazig,Nile Delta,Egypt,2,75.1,0.65,2024-07-25
+10222,Sherif,Hussein,Hussein Enterprises,Business,Manufacturer,El Arish,Sinai,Egypt,17,331.4,0.51,2020-11-14
+10223,Nour,Adel,Adel Enterprises,Business,Retailer,Luxor,Upper Egypt,Egypt,6,491.36,0.7,2022-11-26
+10224,Fatma,Abouzeid,Abouzeid Trading,Business,Wholesaler,Tanta,Nile Delta,Egypt,7,177.24,0.86,2017-08-28
+10225,Ali,Ahmed,Ahmed Trading,Business,Manufacturer,Sohag,Upper Egypt,Egypt,14,122.97,0.12,2018-07-21
+10226,Omar,Saad,,Individual,Regular,Minya,Upper Egypt,Egypt,20,125.72,0.38,2024-12-27
+10227,Heba,Fathy,Fathy Enterprises,Business,Manufacturer,Minya,Upper Egypt,Egypt,18,405.44,0.25,2016-10-06
+10228,Eman,Mohamed,Mohamed Trading,Business,Manufacturer,6th of October,Greater Cairo,Egypt,18,250.9,0.15,2022-12-19
+10229,Mona,Fathy,,Individual,Regular,Damietta,Mediterranean Coast,Egypt,11,112.85,0.28,2019-01-12
+10230,Ayman,Magdy,Magdy Company,Business,Wholesaler,Aswan,Upper Egypt,Egypt,8,462.85,0.34,2020-09-22
+10231,Ramy,Saad,Saad Industries,Business,Distributor,Aswan,Upper Egypt,Egypt,20,33.46,0.63,2024-01-29
+10232,Amira,Ali,,Individual,Regular,Hurghada,Red Sea,Egypt,18,298.77,0.48,2021-11-16
+10233,Mahmoud,Saad,,Individual,Economy,Alexandria,Mediterranean Coast,Egypt,1,415.12,0.87,2017-10-15
+10234,Mahmoud,Farouk,Farouk Industries,Business,Manufacturer,Alexandria,Mediterranean Coast,Egypt,12,150.37,0.25,2023-12-19
+10235,Dalia,Magdy,Magdy Group,Business,Wholesaler,El Arish,Sinai,Egypt,3,11.82,0.89,2023-11-28
+10236,Dina,Saad,Saad Company,Business,Retailer,Qena,Upper Egypt,Egypt,7,408.25,0.14,2022-08-18
+10237,Hoda,Hussein,Hussein Company,Business,Distributor,Alexandria,Mediterranean Coast,Egypt,1,151.76,0.71,2023-05-24
+10238,Soha,Samy,Samy Trading,Business,Wholesaler,Dahab,Sinai,Egypt,8,337.28,0.73,2021-02-10
+10239,Noha,Samir,Samir Trading,Business,Retailer,Ismailia,Suez Canal,Egypt,3,469.19,0.59,2017-02-23
+10240,Tarek,Samy,,Individual,Economy,Sharm El Sheikh,Sinai,Egypt,15,75.9,0.79,2023-11-29
+10241,Rania,Gamal,Gamal Group,Business,Retailer,6th of October,Greater Cairo,Egypt,5,477.51,0.85,2021-02-28
+10242,Rasha,Hassan,,Individual,Premium,Safaga,Red Sea,Egypt,4,466.4,0.79,2023-08-29
+10243,Rania,Samir,,Individual,Economy,Aswan,Upper Egypt,Egypt,14,328.62,0.18,2019-11-13
+10244,Sarah,Ali,Ali Industries,Business,Manufacturer,Suez,Suez Canal,Egypt,18,268.11,0.72,2023-10-26
+10245,Mariam,Samy,Samy Enterprises,Business,Distributor,Dahab,Sinai,Egypt,13,186.26,0.2,2023-12-04
+10246,Laila,Hassan,Hassan Trading,Business,Distributor,Dahab,Sinai,Egypt,2,187.69,0.72,2017-04-05
+10247,Khaled,Ali,Ali Company,Business,Retailer,Sharm El Sheikh,Sinai,Egypt,7,402.3,0.14,2018-03-05
+10248,Noha,Elsayed,,Individual,Premium,Hurghada,Red Sea,Egypt,16,363.59,0.73,2015-09-08
+10249,Hoda,Mohamed,,Individual,Economy,Port Said,Mediterranean Coast,Egypt,13,162.38,0.13,2015-10-15
+10250,Amira,Nasser,Nasser Company,Business,Retailer,Sohag,Upper Egypt,Egypt,13,12.97,0.89,2016-11-16
+10251,Khaled,Elsayed,Elsayed Enterprises,Business,Wholesaler,Suez,Suez Canal,Egypt,19,332.31,0.83,2015-12-29
+10252,Ahmed,Hussein,,Individual,Regular,Fayoum,Upper Egypt,Egypt,14,225.65,0.79,2019-05-30
+10253,Dina,Adel,Adel Trading,Business,Wholesaler,6th of October,Greater Cairo,Egypt,11,154.94,0.72,2017-05-15
+10254,Amira,Youssef,Youssef Trading,Business,Distributor,Damietta,Mediterranean Coast,Egypt,18,16.41,0.17,2020-09-07
+10255,Noha,Samir,Samir Industries,Business,Distributor,Giza,Greater Cairo,Egypt,1,400.18,0.73,2023-10-31
+10256,Ramy,Samy,,Individual,Premium,Dahab,Sinai,Egypt,20,477.83,0.41,2024-08-31
+10257,Sherif,Zaki,Zaki Company,Business,Wholesaler,Damanhur,Nile Delta,Egypt,17,81.53,0.88,2023-04-17
+10258,Mariam,Mostafa,Mostafa Enterprises,Business,Manufacturer,Zagazig,Nile Delta,Egypt,5,249.45,0.89,2021-07-04
+10259,Dalia,Youssef,Youssef Enterprises,Business,Distributor,Tanta,Nile Delta,Egypt,17,281.74,0.65,2021-04-08
+10260,Noha,Adel,Adel Enterprises,Business,Distributor,Qena,Upper Egypt,Egypt,14,135.18,0.53,2016-11-13
+10261,Mahmoud,Elsherbiny,Elsherbiny Trading,Business,Distributor,Qena,Upper Egypt,Egypt,11,408.0,0.77,2016-05-01
+10262,Sameh,Elsherbiny,Elsherbiny Company,Business,Distributor,Giza,Greater Cairo,Egypt,1,79.61,0.63,2020-02-18
+10263,Mona,Salah,,Individual,Economy,Port Said,Mediterranean Coast,Egypt,7,184.43,0.68,2022-09-02
+10264,Karim,Farouk,,Individual,Regular,Port Said,Mediterranean Coast,Egypt,20,147.04,0.71,2020-04-20
+10265,Amr,Fathy,,Individual,Economy,Safaga,Red Sea,Egypt,15,155.48,0.11,2017-10-07
+10266,Mariam,Adel,,Individual,Premium,Suez,Suez Canal,Egypt,18,449.32,0.49,2021-04-25
+10267,Ali,Youssef,Youssef Enterprises,Business,Distributor,Hurghada,Red Sea,Egypt,6,27.98,0.28,2023-05-15
+10268,Hossam,Hussein,,Individual,Regular,Port Tawfik,Suez Canal,Egypt,10,397.53,0.66,2021-02-02
+10269,Soha,Samy,Samy Enterprises,Business,Wholesaler,Qena,Upper Egypt,Egypt,3,99.28,0.53,2018-05-16
+10270,Laila,Farouk,,Individual,Economy,Minya,Upper Egypt,Egypt,16,113.77,0.33,2021-12-23
+10271,Karim,Samy,Samy Company,Business,Distributor,Alexandria,Mediterranean Coast,Egypt,16,49.71,0.78,2020-08-18
+10272,Yasmin,Magdy,,Individual,Regular,Alexandria,Mediterranean Coast,Egypt,20,36.5,0.82,2017-10-17
+10273,Karim,Samy,Samy Group,Business,Retailer,Port Tawfik,Suez Canal,Egypt,1,246.73,0.31,2023-04-08
+10274,Sameh,Abdelaziz,Abdelaziz Trading,Business,Distributor,Damietta,Mediterranean Coast,Egypt,9,69.67,0.26,2024-07-21
+10275,Mahmoud,Zaki,Zaki Trading,Business,Distributor,Minya,Upper Egypt,Egypt,20,477.02,0.49,2024-06-07
+10276,Ghada,Samir,Samir Industries,Business,Wholesaler,Assiut,Upper Egypt,Egypt,3,474.29,0.7,2022-11-07
+10277,Sarah,Abdelaziz,Abdelaziz Enterprises,Business,Wholesaler,6th of October,Greater Cairo,Egypt,14,14.56,0.36,2018-03-28
+10278,Yasmin,Fathy,,Individual,Regular,Zagazig,Nile Delta,Egypt,11,30.38,0.88,2022-11-01
+10279,Rania,Nasser,Nasser Industries,Business,Wholesaler,Fayoum,Upper Egypt,Egypt,2,451.61,0.59,2024-03-03
+10280,Amr,Elsayed,Elsayed Enterprises,Business,Distributor,Port Tawfik,Suez Canal,Egypt,7,328.68,0.14,2020-05-29
+10281,Amira,Gamal,Gamal Trading,Business,Retailer,Sohag,Upper Egypt,Egypt,1,297.45,0.7,2016-04-21
+10282,Nour,Fathy,Fathy Company,Business,Retailer,Sharm El Sheikh,Sinai,Egypt,20,103.59,0.46,2018-11-12
+10283,Walid,Abdelrahman,Abdelrahman Industries,Business,Wholesaler,Hurghada,Red Sea,Egypt,15,243.82,0.68,2020-10-04
+10284,Rasha,Elsherbiny,Elsherbiny Industries,Business,Wholesaler,Kafr El Sheikh,Nile Delta,Egypt,6,45.36,0.26,2019-03-15
+10285,Dalia,Nasser,,Individual,Economy,Minya,Upper Egypt,Egypt,11,463.1,0.87,2019-12-01
+10286,Hussein,Samir,,Individual,Premium,Ismailia,Suez Canal,Egypt,2,178.98,0.5,2021-07-21
+10287,Amr,Ali,Ali Trading,Business,Distributor,El Arish,Sinai,Egypt,7,190.74,0.21,2023-01-31
+10288,Laila,Soliman,,Individual,Premium,New Cairo,Greater Cairo,Egypt,3,273.0,0.59,2019-05-02
+10289,Sarah,Hussein,,Individual,Regular,Luxor,Upper Egypt,Egypt,1,359.44,0.81,2023-12-23
+10290,Amr,Abdallah,,Individual,Premium,Aswan,Upper Egypt,Egypt,8,116.65,0.89,2021-11-09
+10291,Hussein,Samir,,Individual,Economy,Kafr El Sheikh,Nile Delta,Egypt,20,77.3,0.16,2024-05-09
+10292,Mona,Mohamed,Mohamed Company,Business,Manufacturer,Giza,Greater Cairo,Egypt,17,64.55,0.18,2023-06-03
+10293,Amr,Fathy,Fathy Company,Business,Manufacturer,Cairo,Greater Cairo,Egypt,15,90.67,0.61,2021-04-28
+10294,Youssef,Abdelhamid,,Individual,Premium,Sharm El Sheikh,Sinai,Egypt,13,97.39,0.15,2024-06-16
+10295,Dina,Gamal,Gamal Group,Business,Retailer,Cairo,Greater Cairo,Egypt,2,79.46,0.15,2021-03-29
+10296,Mostafa,Elsayed,Elsayed Company,Business,Retailer,6th of October,Greater Cairo,Egypt,14,53.21,0.37,2022-01-05
+10297,Amr,Hassan,Hassan Group,Business,Retailer,Suez,Suez Canal,Egypt,16,375.6,0.42,2022-01-23
+10298,Khaled,Fathy,Fathy Enterprises,Business,Wholesaler,Safaga,Red Sea,Egypt,12,115.12,0.4,2018-12-28
+10299,Aisha,Mohamed,Mohamed Industries,Business,Wholesaler,6th of October,Greater Cairo,Egypt,2,369.44,0.68,2020-07-25
+10300,Youssef,Mostafa,Mostafa Group,Business,Distributor,Sohag,Upper Egypt,Egypt,6,195.22,0.32,2018-12-12
+10301,Salma,Youssef,Youssef Industries,Business,Distributor,Port Said,Mediterranean Coast,Egypt,9,193.82,0.68,2015-10-18
+10302,Sarah,Abdelhamid,,Individual,Regular,Fayoum,Upper Egypt,Egypt,20,481.04,0.37,2021-01-12
+10303,Yasmin,Samy,,Individual,Regular,Aswan,Upper Egypt,Egypt,17,495.33,0.47,2024-08-21
+10304,Mostafa,Elsayed,Elsayed Company,Business,Wholesaler,Damietta,Mediterranean Coast,Egypt,6,265.65,0.44,2023-09-04
+10305,Rasha,Mohamed,Mohamed Industries,Business,Retailer,Beni Suef,Upper Egypt,Egypt,4,157.55,0.51,2021-07-06
+10306,Amira,Gamal,Gamal Company,Business,Manufacturer,Cairo,Greater Cairo,Egypt,20,255.11,0.47,2024-01-01
+10307,Mohamed,Elsayed,,Individual,Regular,Damietta,Mediterranean Coast,Egypt,8,207.15,0.38,2017-04-14
+10308,Walid,Gamal,Gamal Enterprises,Business,Retailer,Suez,Suez Canal,Egypt,3,158.02,0.88,2023-01-05
+10309,Heba,Zaki,Zaki Trading,Business,Wholesaler,Tanta,Nile Delta,Egypt,11,398.63,0.34,2020-03-06
+10310,Heba,Fathy,Fathy Company,Business,Manufacturer,Qena,Upper Egypt,Egypt,9,135.76,0.25,2019-05-10
+10311,Hussein,Abdallah,Abdallah Trading,Business,Distributor,Sharm El Sheikh,Sinai,Egypt,8,378.85,0.48,2018-02-04
+10312,Eman,Fouad,Fouad Enterprises,Business,Manufacturer,Giza,Greater Cairo,Egypt,12,260.04,0.76,2022-10-30
+10313,Dalia,Abdallah,Abdallah Industries,Business,Wholesaler,Port Tawfik,Suez Canal,Egypt,4,351.84,0.36,2016-11-12
+10314,Noha,Elsherbiny,,Individual,Economy,Alexandria,Mediterranean Coast,Egypt,9,88.79,0.5,2015-11-19
+10315,Hossam,Youssef,Youssef Company,Business,Manufacturer,Beni Suef,Upper Egypt,Egypt,1,287.33,0.83,2024-05-24
+10316,Ahmed,Abdallah,Abdallah Enterprises,Business,Manufacturer,Assiut,Upper Egypt,Egypt,16,83.77,0.6,2015-06-07
+10317,Noha,Abdallah,,Individual,Economy,Assiut,Upper Egypt,Egypt,19,296.24,0.45,2016-08-16
+10318,Mohamed,Fouad,Fouad Industries,Business,Manufacturer,Marsa Matruh,Mediterranean Coast,Egypt,3,238.65,0.85,2021-08-02
+10319,Khaled,Samir,Samir Company,Business,Retailer,New Cairo,Greater Cairo,Egypt,9,173.98,0.39,2024-12-28
+10320,Hoda,Mostafa,,Individual,Economy,Zagazig,Nile Delta,Egypt,15,389.87,0.59,2022-04-24
+10321,Ramy,Mohamed,Mohamed Industries,Business,Manufacturer,Qena,Upper Egypt,Egypt,19,213.86,0.7,2022-07-09
+10322,Hussein,Abouzeid,Abouzeid Industries,Business,Wholesaler,Port Tawfik,Suez Canal,Egypt,14,428.33,0.43,2016-11-22
+10323,Sherif,Soliman,,Individual,Economy,Sharm El Sheikh,Sinai,Egypt,20,411.14,0.71,2021-11-20
+10324,Sherif,Abdelhamid,Abdelhamid Enterprises,Business,Manufacturer,Assiut,Upper Egypt,Egypt,3,286.9,0.54,2022-04-26
+10325,Ali,Magdy,Magdy Enterprises,Business,Retailer,Kafr El Sheikh,Nile Delta,Egypt,5,353.64,0.51,2021-12-29
+10326,Mostafa,Abouzeid,Abouzeid Group,Business,Manufacturer,Safaga,Red Sea,Egypt,8,53.58,0.42,2019-08-24
+10327,Yasmin,Fouad,Fouad Enterprises,Business,Retailer,Ismailia,Suez Canal,Egypt,13,281.82,0.78,2023-06-18
+10328,Hossam,Nasser,Nasser Company,Business,Manufacturer,Damanhur,Nile Delta,Egypt,9,458.45,0.31,2018-06-12
+10329,Rasha,Samir,Samir Company,Business,Wholesaler,Dahab,Sinai,Egypt,13,269.59,0.38,2015-11-14
+10330,Heba,Samy,,Individual,Regular,Aswan,Upper Egypt,Egypt,3,245.18,0.77,2016-11-19
+10331,Hossam,Ali,Ali Company,Business,Distributor,Suez,Suez Canal,Egypt,8,232.38,0.71,2020-11-15
+10332,Heba,Abdelhamid,,Individual,Regular,Luxor,Upper Egypt,Egypt,2,266.14,0.35,2019-02-10
+10333,Ramy,Hassan,Hassan Industries,Business,Retailer,Suez,Suez Canal,Egypt,17,350.28,0.87,2019-03-09
+10334,Laila,Youssef,Youssef Trading,Business,Manufacturer,Sharm El Sheikh,Sinai,Egypt,1,496.84,0.84,2018-05-17
+10335,Sameh,Hussein,Hussein Trading,Business,Wholesaler,Mansoura,Nile Delta,Egypt,4,324.93,0.37,2019-01-12
+10336,Noha,Zaki,Zaki Trading,Business,Wholesaler,Alexandria,Mediterranean Coast,Egypt,19,445.65,0.42,2023-11-27
+10337,Walid,Ahmed,,Individual,Economy,Safaga,Red Sea,Egypt,10,210.8,0.69,2021-02-16
+10338,Nour,Ahmed,Ahmed Company,Business,Retailer,Fayoum,Upper Egypt,Egypt,8,242.06,0.85,2016-09-21
+10339,Salma,Elsherbiny,,Individual,Regular,Qena,Upper Egypt,Egypt,8,358.36,0.49,2017-02-02
+10340,Karim,Ahmed,Ahmed Enterprises,Business,Retailer,Giza,Greater Cairo,Egypt,12,26.68,0.31,2017-05-18
+10341,Soha,Hassan,Hassan Trading,Business,Manufacturer,El Arish,Sinai,Egypt,6,51.35,0.68,2020-10-31
+10342,Salma,Hussein,,Individual,Regular,El Arish,Sinai,Egypt,6,137.11,0.18,2023-09-12
+10343,Walid,Abdelaziz,Abdelaziz Group,Business,Wholesaler,Assiut,Upper Egypt,Egypt,19,233.76,0.83,2020-06-24
+10344,Sarah,Abdelaziz,Abdelaziz Industries,Business,Retailer,Suez,Suez Canal,Egypt,17,223.24,0.75,2019-07-09
+10345,Amira,Farouk,,Individual,Regular,Sohag,Upper Egypt,Egypt,3,332.5,0.69,2023-04-27
+10346,Salma,Mohamed,,Individual,Premium,Safaga,Red Sea,Egypt,12,468.04,0.25,2016-02-28
+10347,Tarek,Hussein,Hussein Enterprises,Business,Distributor,Suez,Suez Canal,Egypt,17,289.33,0.34,2023-06-09
+10348,Nour,Adel,,Individual,Economy,El Arish,Sinai,Egypt,4,234.26,0.73,2022-05-21
+10349,Walid,Gamal,,Individual,Premium,Suez,Suez Canal,Egypt,11,343.92,0.7,2016-11-04
+10350,Mohamed,Adel,Adel Group,Business,Distributor,Port Said,Mediterranean Coast,Egypt,12,134.13,0.13,2016-11-08
+10351,Ibrahim,Abdelaziz,,Individual,Economy,Ismailia,Suez Canal,Egypt,11,449.93,0.45,2016-08-06
+10352,Sarah,Ali,Ali Group,Business,Distributor,Qena,Upper Egypt,Egypt,2,60.19,0.58,2017-02-23
+10353,Amr,Nasser,Nasser Enterprises,Business,Wholesaler,Port Tawfik,Suez Canal,Egypt,2,374.19,0.89,2019-11-26
+10354,Noha,Elsherbiny,Elsherbiny Group,Business,Manufacturer,Luxor,Upper Egypt,Egypt,18,130.73,0.89,2024-05-17
+10355,Salma,Adel,,Individual,Economy,New Cairo,Greater Cairo,Egypt,9,457.62,0.85,2019-01-06
+10356,Ali,Ibrahim,Ibrahim Industries,Business,Distributor,Luxor,Upper Egypt,Egypt,10,196.3,0.55,2023-12-29
+10357,Dalia,Abdallah,Abdallah Group,Business,Manufacturer,El Arish,Sinai,Egypt,16,307.82,0.36,2016-12-22
+10358,Youssef,Hassan,Hassan Group,Business,Manufacturer,Aswan,Upper Egypt,Egypt,11,442.3,0.74,2020-06-30
+10359,Karim,Adel,Adel Company,Business,Wholesaler,Safaga,Red Sea,Egypt,10,232.05,0.66,2023-12-10
+10360,Mahmoud,Abdelaziz,Abdelaziz Enterprises,Business,Retailer,Port Said,Mediterranean Coast,Egypt,9,314.76,0.35,2022-03-20
+10361,Salma,Elsherbiny,Elsherbiny Industries,Business,Retailer,Giza,Greater Cairo,Egypt,5,487.76,0.86,2021-07-19
+10362,Hossam,Gamal,,Individual,Economy,Kafr El Sheikh,Nile Delta,Egypt,1,340.49,0.76,2025-02-23
+10363,Yasmin,Mansour,Mansour Trading,Business,Wholesaler,Alexandria,Mediterranean Coast,Egypt,11,288.91,0.68,2021-03-28
+10364,Dalia,Mostafa,Mostafa Enterprises,Business,Distributor,Sharm El Sheikh,Sinai,Egypt,13,410.93,0.13,2021-09-10
+10365,Dina,Samy,,Individual,Regular,Hurghada,Red Sea,Egypt,2,38.43,0.89,2018-12-01
+10366,Hussein,Nasser,,Individual,Economy,Fayoum,Upper Egypt,Egypt,15,119.47,0.14,2020-03-07
+10367,Hossam,Mahmoud,,Individual,Premium,El Arish,Sinai,Egypt,6,29.97,0.15,2019-03-08
+10368,Amr,Fouad,,Individual,Economy,Sharm El Sheikh,Sinai,Egypt,4,213.1,0.46,2021-08-18
+10369,Khaled,Elsherbiny,Elsherbiny Enterprises,Business,Wholesaler,Damanhur,Nile Delta,Egypt,7,71.52,0.83,2021-04-01
+10370,Khaled,Gamal,,Individual,Economy,Minya,Upper Egypt,Egypt,19,388.09,0.81,2017-01-29
+10371,Amr,Mansour,,Individual,Regular,Safaga,Red Sea,Egypt,17,471.42,0.14,2019-02-26
+10372,Dalia,Abdallah,Abdallah Group,Business,Distributor,Giza,Greater Cairo,Egypt,1,281.45,0.19,2016-06-12
+10373,Ramy,Elsherbiny,,Individual,Regular,Cairo,Greater Cairo,Egypt,19,324.21,0.87,2017-12-16
+10374,Laila,Ali,Ali Industries,Business,Wholesaler,Safaga,Red Sea,Egypt,8,169.15,0.77,2023-06-15
+10375,Salma,Fouad,Fouad Industries,Business,Wholesaler,Sohag,Upper Egypt,Egypt,15,398.3,0.11,2024-10-31
+10376,Sameh,Fathy,,Individual,Premium,6th of October,Greater Cairo,Egypt,15,218.84,0.74,2018-03-09
+10377,Dina,Samy,,Individual,Premium,Ismailia,Suez Canal,Egypt,20,433.64,0.8,2016-07-27
+10378,Walid,Adel,,Individual,Regular,Sohag,Upper Egypt,Egypt,11,342.75,0.89,2022-12-04
+10379,Heba,Salah,,Individual,Premium,Marsa Matruh,Mediterranean Coast,Egypt,1,28.91,0.89,2024-10-17
+10380,Mostafa,Nasser,Nasser Company,Business,Distributor,Safaga,Red Sea,Egypt,4,253.65,0.69,2015-11-30
+10381,Amr,Ibrahim,Ibrahim Trading,Business,Retailer,Giza,Greater Cairo,Egypt,16,359.61,0.58,2022-04-25
+10382,Rania,Hussein,Hussein Trading,Business,Manufacturer,Sohag,Upper Egypt,Egypt,11,191.53,0.6,2023-10-12
+10383,Dalia,Salah,,Individual,Economy,Zagazig,Nile Delta,Egypt,13,264.56,0.18,2019-09-27
+10384,Mohamed,Saad,,Individual,Regular,6th of October,Greater Cairo,Egypt,10,327.04,0.25,2018-04-02
+10385,Fatma,Ibrahim,Ibrahim Group,Business,Wholesaler,Alexandria,Mediterranean Coast,Egypt,10,113.51,0.7,2019-12-05
+10386,Omar,Ahmed,Ahmed Company,Business,Distributor,Luxor,Upper Egypt,Egypt,16,244.37,0.86,2017-06-17
+10387,Sherif,Hussein,,Individual,Premium,Cairo,Greater Cairo,Egypt,20,473.52,0.7,2023-02-11
+10388,Ahmed,Mansour,,Individual,Regular,New Cairo,Greater Cairo,Egypt,10,62.08,0.77,2024-09-10
+10389,Mohamed,Hussein,,Individual,Premium,Beni Suef,Upper Egypt,Egypt,8,315.53,0.75,2016-08-22
+10390,Mohamed,Soliman,Soliman Industries,Business,Wholesaler,Tanta,Nile Delta,Egypt,13,316.39,0.42,2024-09-05
+10391,Omar,Saad,Saad Enterprises,Business,Distributor,Aswan,Upper Egypt,Egypt,12,40.89,0.26,2023-03-31
+10392,Hoda,Soliman,Soliman Group,Business,Wholesaler,Beni Suef,Upper Egypt,Egypt,10,171.89,0.8,2020-05-01
+10393,Mahmoud,Abdelrahman,Abdelrahman Trading,Business,Distributor,6th of October,Greater Cairo,Egypt,7,71.18,0.73,2024-05-06
+10394,Hoda,Salah,Salah Enterprises,Business,Distributor,Sohag,Upper Egypt,Egypt,18,450.82,0.25,2018-03-09
+10395,Mariam,Gamal,Gamal Industries,Business,Retailer,Fayoum,Upper Egypt,Egypt,15,347.15,0.51,2024-03-24
+10396,Ahmed,Samy,Samy Company,Business,Retailer,Mansoura,Nile Delta,Egypt,5,134.9,0.84,2022-07-19
+10397,Ghada,Youssef,,Individual,Economy,Safaga,Red Sea,Egypt,4,95.71,0.88,2021-10-07
+10398,Rania,Ali,Ali Group,Business,Retailer,Port Tawfik,Suez Canal,Egypt,19,102.69,0.4,2019-12-14
+10399,Yasmin,Hassan,,Individual,Economy,Safaga,Red Sea,Egypt,10,110.7,0.3,2021-02-19
+10400,Heba,Gamal,Gamal Company,Business,Wholesaler,Sohag,Upper Egypt,Egypt,13,304.8,0.68,2020-05-28
+10401,Nour,Elsayed,Elsayed Trading,Business,Wholesaler,Hurghada,Red Sea,Egypt,8,462.27,0.73,2015-08-16
+10402,Mariam,Abdallah,Abdallah Company,Business,Distributor,Sohag,Upper Egypt,Egypt,18,394.83,0.74,2018-06-21
+10403,Tarek,Nasser,Nasser Trading,Business,Distributor,Safaga,Red Sea,Egypt,8,461.44,0.72,2025-03-21
+10404,Khaled,Elsherbiny,Elsherbiny Enterprises,Business,Distributor,Zagazig,Nile Delta,Egypt,10,131.03,0.68,2024-06-01
+10405,Dina,Mostafa,Mostafa Trading,Business,Manufacturer,Dahab,Sinai,Egypt,8,499.57,0.82,2024-04-20
+10406,Mariam,Fathy,Fathy Industries,Business,Wholesaler,Ismailia,Suez Canal,Egypt,13,408.89,0.88,2017-12-19
+10407,Ghada,Ahmed,Ahmed Group,Business,Manufacturer,Damietta,Mediterranean Coast,Egypt,18,133.11,0.23,2019-10-10
+10408,Hoda,Abdelrahman,Abdelrahman Group,Business,Manufacturer,Alexandria,Mediterranean Coast,Egypt,14,10.04,0.36,2022-09-18
+10409,Walid,Ibrahim,,Individual,Economy,Port Tawfik,Suez Canal,Egypt,3,364.48,0.35,2021-08-05
+10410,Mona,Adel,,Individual,Regular,Suez,Suez Canal,Egypt,18,300.63,0.78,2020-01-31
+10411,Soha,Fouad,,Individual,Premium,Marsa Matruh,Mediterranean Coast,Egypt,7,214.49,0.64,2018-01-18
+10412,Ali,Salah,Salah Group,Business,Wholesaler,Sharm El Sheikh,Sinai,Egypt,17,207.13,0.26,2021-09-16
+10413,Aisha,Hussein,Hussein Enterprises,Business,Retailer,Sohag,Upper Egypt,Egypt,17,256.45,0.24,2021-12-12
+10414,Ahmed,Abdallah,,Individual,Economy,Alexandria,Mediterranean Coast,Egypt,16,36.83,0.89,2018-11-05
+10415,Aisha,Elsayed,,Individual,Economy,Giza,Greater Cairo,Egypt,13,27.05,0.86,2023-06-20
+10416,Sarah,Abouzeid,Abouzeid Company,Business,Distributor,El Arish,Sinai,Egypt,15,128.15,0.73,2021-10-03
+10417,Karim,Samir,,Individual,Regular,Giza,Greater Cairo,Egypt,17,40.04,0.9,2018-03-13
+10418,Ramy,Fouad,Fouad Enterprises,Business,Retailer,Hurghada,Red Sea,Egypt,7,476.28,0.14,2017-02-02
+10419,Walid,Abouzeid,Abouzeid Group,Business,Manufacturer,Aswan,Upper Egypt,Egypt,8,277.91,0.84,2021-09-26
+10420,Mariam,Soliman,Soliman Industries,Business,Distributor,Dahab,Sinai,Egypt,14,456.71,0.78,2024-07-08
+10421,Walid,Elsayed,Elsayed Company,Business,Distributor,Beni Suef,Upper Egypt,Egypt,9,101.97,0.27,2020-07-05
+10422,Youssef,Abdelaziz,Abdelaziz Trading,Business,Manufacturer,Assiut,Upper Egypt,Egypt,14,142.83,0.19,2020-03-12
+10423,Salma,Ali,,Individual,Economy,Beni Suef,Upper Egypt,Egypt,14,321.89,0.79,2021-07-23
+10424,Khaled,Youssef,Youssef Industries,Business,Wholesaler,Damanhur,Nile Delta,Egypt,8,382.43,0.18,2021-09-02
+10425,Walid,Abdelhamid,Abdelhamid Enterprises,Business,Manufacturer,Ismailia,Suez Canal,Egypt,11,386.15,0.38,2024-07-02
+10426,Hossam,Farouk,Farouk Industries,Business,Distributor,Damietta,Mediterranean Coast,Egypt,11,346.14,0.44,2022-02-09
+10427,Khaled,Abouzeid,Abouzeid Company,Business,Distributor,Port Said,Mediterranean Coast,Egypt,11,68.68,0.25,2018-03-28
+10428,Ahmed,Fathy,,Individual,Regular,Marsa Matruh,Mediterranean Coast,Egypt,12,58.29,0.24,2022-03-30
+10429,Rania,Soliman,,Individual,Economy,Damietta,Mediterranean Coast,Egypt,18,430.89,0.88,2021-09-17
+10430,Soha,Hussein,Hussein Enterprises,Business,Wholesaler,New Cairo,Greater Cairo,Egypt,6,384.36,0.24,2019-01-06
+10431,Ghada,Mansour,,Individual,Regular,Sharm El Sheikh,Sinai,Egypt,3,336.01,0.84,2022-10-21
+10432,Hussein,Abdallah,Abdallah Group,Business,Retailer,Beni Suef,Upper Egypt,Egypt,10,411.14,0.38,2021-01-08
+10433,Ramy,Mostafa,Mostafa Industries,Business,Distributor,Marsa Matruh,Mediterranean Coast,Egypt,17,434.38,0.2,2022-03-20
+10434,Mona,Abouzeid,Abouzeid Industries,Business,Distributor,Suez,Suez Canal,Egypt,1,428.95,0.61,2016-10-26
+10435,Yasmin,Hussein,,Individual,Premium,New Cairo,Greater Cairo,Egypt,1,193.55,0.3,2019-08-30
+10436,Mohamed,Gamal,,Individual,Premium,Tanta,Nile Delta,Egypt,8,76.01,0.88,2015-08-22
+10437,Yasmin,Mansour,,Individual,Premium,Hurghada,Red Sea,Egypt,1,435.58,0.87,2023-10-22
+10438,Mostafa,Hussein,Hussein Industries,Business,Manufacturer,Mansoura,Nile Delta,Egypt,6,368.75,0.75,2016-08-21
+10439,Mohamed,Mansour,Mansour Trading,Business,Manufacturer,Mansoura,Nile Delta,Egypt,5,114.51,0.62,2018-04-18
+10440,Ibrahim,Fouad,Fouad Enterprises,Business,Manufacturer,Luxor,Upper Egypt,Egypt,17,471.92,0.84,2022-04-06
+10441,Ayman,Soliman,,Individual,Regular,Cairo,Greater Cairo,Egypt,14,470.66,0.29,2023-01-03
+10442,Youssef,Samy,Samy Industries,Business,Manufacturer,Marsa Matruh,Mediterranean Coast,Egypt,5,244.12,0.78,2021-05-30
+10443,Dalia,Nasser,,Individual,Economy,Hurghada,Red Sea,Egypt,20,78.48,0.32,2023-12-20
+10444,Soha,Mostafa,,Individual,Economy,Port Said,Mediterranean Coast,Egypt,18,381.79,0.76,2019-06-10
+10445,Laila,Mostafa,,Individual,Regular,Zagazig,Nile Delta,Egypt,8,130.72,0.29,2023-06-02
+10446,Sherif,Gamal,,Individual,Regular,Cairo,Greater Cairo,Egypt,1,268.9,0.68,2019-12-26
+10447,Heba,Fouad,Fouad Industries,Business,Distributor,El Arish,Sinai,Egypt,4,439.48,0.77,2017-07-13
+10448,Karim,Mansour,,Individual,Premium,Alexandria,Mediterranean Coast,Egypt,11,291.43,0.22,2019-05-06
+10449,Nour,Ibrahim,Ibrahim Company,Business,Distributor,Damanhur,Nile Delta,Egypt,5,109.87,0.59,2017-12-24
+10450,Ramy,Abdelhamid,Abdelhamid Trading,Business,Manufacturer,Damanhur,Nile Delta,Egypt,11,30.19,0.44,2020-11-29
+10451,Hossam,Fouad,Fouad Trading,Business,Distributor,Marsa Matruh,Mediterranean Coast,Egypt,8,73.24,0.45,2020-11-23
+10452,Noha,Saad,,Individual,Premium,Ismailia,Suez Canal,Egypt,16,113.56,0.54,2019-01-11
+10453,Noha,Ahmed,Ahmed Enterprises,Business,Retailer,Mansoura,Nile Delta,Egypt,7,243.87,0.14,2019-05-07
+10454,Sameh,Hussein,Hussein Enterprises,Business,Retailer,Port Tawfik,Suez Canal,Egypt,4,101.59,0.73,2016-05-23
+10455,Hassan,Ali,Ali Enterprises,Business,Manufacturer,Fayoum,Upper Egypt,Egypt,3,206.42,0.65,2016-11-19
+10456,Sameh,Mansour,,Individual,Regular,Safaga,Red Sea,Egypt,4,316.5,0.55,2019-02-16
+10457,Mohamed,Abdelaziz,,Individual,Regular,Qena,Upper Egypt,Egypt,8,190.05,0.66,2019-10-27
+10458,Mohamed,Abdallah,Abdallah Industries,Business,Wholesaler,Port Tawfik,Suez Canal,Egypt,10,383.38,0.59,2021-07-17
+10459,Mona,Mahmoud,Mahmoud Group,Business,Retailer,Assiut,Upper Egypt,Egypt,15,27.26,0.88,2023-11-10
+10460,Amira,Fouad,,Individual,Economy,Sharm El Sheikh,Sinai,Egypt,5,328.74,0.24,2023-10-05
+10461,Ali,Samir,,Individual,Regular,Hurghada,Red Sea,Egypt,7,255.15,0.89,2022-04-03
+10462,Karim,Youssef,Youssef Enterprises,Business,Distributor,Giza,Greater Cairo,Egypt,6,10.02,0.28,2021-09-07
+10463,Soha,Zaki,,Individual,Regular,Port Said,Mediterranean Coast,Egypt,16,142.51,0.16,2024-04-13
+10464,Tarek,Abdelrahman,Abdelrahman Company,Business,Manufacturer,Ismailia,Suez Canal,Egypt,14,210.12,0.47,2018-06-05
+10465,Eman,Ibrahim,Ibrahim Enterprises,Business,Distributor,Cairo,Greater Cairo,Egypt,5,145.71,0.27,2019-10-21
+10466,Dalia,Adel,Adel Industries,Business,Wholesaler,Ismailia,Suez Canal,Egypt,1,414.45,0.73,2015-06-29
+10467,Youssef,Elsherbiny,Elsherbiny Company,Business,Distributor,Hurghada,Red Sea,Egypt,9,119.38,0.62,2020-02-01
+10468,Yasmin,Gamal,,Individual,Economy,Beni Suef,Upper Egypt,Egypt,14,69.02,0.58,2016-09-21
+10469,Noha,Zaki,,Individual,Regular,Port Tawfik,Suez Canal,Egypt,2,178.2,0.84,2023-04-08
+10470,Soha,Fathy,Fathy Trading,Business,Distributor,Fayoum,Upper Egypt,Egypt,5,231.95,0.71,2020-06-13
+10471,Ghada,Youssef,Youssef Enterprises,Business,Distributor,Aswan,Upper Egypt,Egypt,12,437.74,0.44,2023-12-14
+10472,Eman,Samy,Samy Industries,Business,Wholesaler,Safaga,Red Sea,Egypt,3,272.91,0.8,2024-05-05
+10473,Fatma,Hassan,Hassan Company,Business,Manufacturer,Port Said,Mediterranean Coast,Egypt,9,304.02,0.87,2019-05-18
+10474,Ibrahim,Samir,Samir Trading,Business,Distributor,Hurghada,Red Sea,Egypt,18,146.93,0.24,2020-07-19
+10475,Fatma,Mohamed,,Individual,Premium,El Arish,Sinai,Egypt,18,433.52,0.87,2023-05-05
+10476,Hassan,Mostafa,Mostafa Company,Business,Manufacturer,Marsa Matruh,Mediterranean Coast,Egypt,18,36.89,0.51,2017-09-07
+10477,Sarah,Samir,,Individual,Premium,Fayoum,Upper Egypt,Egypt,4,146.47,0.53,2023-08-10
+10478,Fatma,Ahmed,Ahmed Company,Business,Retailer,Sharm El Sheikh,Sinai,Egypt,15,138.25,0.64,2019-07-13
+10479,Fatma,Ibrahim,Ibrahim Trading,Business,Retailer,Tanta,Nile Delta,Egypt,8,263.27,0.44,2024-02-29
+10480,Amr,Abdelaziz,Abdelaziz Industries,Business,Wholesaler,Hurghada,Red Sea,Egypt,6,360.96,0.42,2022-10-13
+10481,Hoda,Hussein,,Individual,Economy,Beni Suef,Upper Egypt,Egypt,16,140.95,0.88,2022-09-13
+10482,Mahmoud,Elsherbiny,Elsherbiny Company,Business,Retailer,Sharm El Sheikh,Sinai,Egypt,11,268.7,0.9,2024-03-04
+10483,Hussein,Fouad,Fouad Enterprises,Business,Retailer,Damietta,Mediterranean Coast,Egypt,13,330.27,0.83,2022-07-13
+10484,Mohamed,Adel,Adel Company,Business,Distributor,New Cairo,Greater Cairo,Egypt,6,249.15,0.71,2018-01-15
+10485,Mahmoud,Mohamed,,Individual,Regular,Dahab,Sinai,Egypt,14,261.61,0.27,2024-03-19
+10486,Heba,Mohamed,Mohamed Trading,Business,Retailer,Damanhur,Nile Delta,Egypt,1,44.18,0.24,2024-01-24
+10487,Hoda,Abdelrahman,Abdelrahman Enterprises,Business,Manufacturer,El Arish,Sinai,Egypt,16,68.4,0.87,2024-12-15
+10488,Dina,Samy,,Individual,Economy,6th of October,Greater Cairo,Egypt,18,136.13,0.14,2022-01-24
+10489,Ramy,Elsayed,Elsayed Industries,Business,Wholesaler,Damietta,Mediterranean Coast,Egypt,4,16.76,0.57,2019-10-03
+10490,Mona,Abdelrahman,,Individual,Premium,Minya,Upper Egypt,Egypt,6,219.87,0.89,2017-01-29
+10491,Amira,Mohamed,Mohamed Industries,Business,Wholesaler,Safaga,Red Sea,Egypt,1,344.66,0.69,2021-06-24
+10492,Hussein,Ali,Ali Industries,Business,Retailer,Safaga,Red Sea,Egypt,19,449.37,0.81,2016-02-18
+10493,Dina,Fouad,,Individual,Premium,Alexandria,Mediterranean Coast,Egypt,12,439.27,0.42,2018-11-12
+10494,Soha,Magdy,,Individual,Regular,Sharm El Sheikh,Sinai,Egypt,1,238.18,0.52,2023-07-07
+10495,Hassan,Zaki,Zaki Group,Business,Distributor,Safaga,Red Sea,Egypt,18,220.9,0.15,2015-08-28
+10496,Mahmoud,Saad,Saad Group,Business,Wholesaler,New Cairo,Greater Cairo,Egypt,10,215.24,0.89,2018-08-19
+10497,Salma,Ali,,Individual,Economy,Mansoura,Nile Delta,Egypt,6,17.07,0.56,2024-01-24
+10498,Hussein,Mostafa,Mostafa Enterprises,Business,Distributor,Port Said,Mediterranean Coast,Egypt,18,69.94,0.48,2018-11-15
+10499,Fatma,Ahmed,,Individual,Regular,Kafr El Sheikh,Nile Delta,Egypt,17,400.24,0.34,2018-09-26
+10500,Karim,Abouzeid,Abouzeid Industries,Business,Manufacturer,Qena,Upper Egypt,Egypt,5,83.24,0.89,2017-11-20

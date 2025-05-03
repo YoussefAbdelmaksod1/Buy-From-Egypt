@@ -1,0 +1,201 @@
+BusinessID,Business Name,Annual Trade Volume (M USD),Trade Growth Rate (%),Trade Success Rate (%),Trade Frequency (per year),Business Size,Trade Type,Category,Trade Type Encoded,Business Size Encoded,Category Encoded
+1,International Fruits Agriculture Egypt,4.76,-10.0,85.59,24,Small,Both,Agriculture,2,0,0
+2,Grains Agriculture Group,700.0,10.96,75.53,365,Large,Importer,Agriculture,0,2,0
+3,Flowers Agriculture Exports,57.04,1.88,77.81,189,Medium,Both,Agriculture,2,1,0
+4,El Fabrics Textiles,15.62,7.55,72.83,59,Small,Exporter,Textiles,1,0,1
+5,International Souvenirs Tourism Egypt,82.33,-9.3,88.37,262,Medium,Importer,Tourism,0,1,2
+6,Silver Metals Trading Egypt,2.12,2.18,77.09,16,Small,Both,Metals,2,0,3
+7,Egypt Silver Metals Company,328.74,9.47,75.74,365,Large,Both,Metals,2,2,3
+8,Delta Office Furniture,2.44,-10.0,63.09,14,Small,Importer,Furniture,0,0,4
+9,Delta Fabrics Textiles,11.09,9.86,69.22,54,Small,Exporter,Textiles,1,0,1
+10,Suez Canal Aluminum Metals,4.83,7.02,70.62,26,Small,Exporter,Metals,1,0,3
+11,Pharaoh Detergents Chemicals,13.73,5.24,75.95,47,Medium,Importer,Chemicals,0,1,5
+12,Egypt Grains Agriculture Company,12.75,-0.18,80.22,48,Small,Exporter,Agriculture,1,0,0
+13,Premium Herbal Pharmaceuticals,57.38,-0.77,82.21,197,Medium,Exporter,Pharmaceuticals,1,1,6
+14,Modern Fruits Agriculture,592.21,-0.96,89.45,365,Large,Importer,Agriculture,0,2,0
+15,Modern Medical Supplies Pharmaceuticals,5.67,12.91,75.15,28,Small,Importer,Pharmaceuticals,0,0,6
+16,Cosmetics Chemicals Egypt,0.68,-9.24,65.83,10,Small,Importer,Chemicals,0,0,5
+17,Cairo Wooden Furniture,10.63,-8.33,77.82,46,Small,Both,Furniture,2,0,4
+18,Canned Foods Food Processing Egypt,97.85,-3.93,79.47,304,Medium,Exporter,Food Processing,1,1,7
+19,Premium Communications Electronics,298.51,4.38,86.11,365,Large,Both,Electronics,2,2,8
+20,Alexandria Dairy Food Processing,35.41,12.94,98.0,120,Medium,Both,Food Processing,2,1,7
+21,Cement Construction Egypt,35.96,0.81,68.63,122,Medium,Both,Construction,2,1,9
+22,Egypt Herbal Pharmaceuticals Company,233.26,6.02,74.11,365,Large,Exporter,Pharmaceuticals,1,2,6
+23,Alexandria Plastics Chemicals,11.66,-5.63,72.67,58,Small,Exporter,Chemicals,1,0,5
+24,Tanta Medical Supplies Pharmaceuticals,9.32,-2.41,69.95,36,Small,Exporter,Pharmaceuticals,1,0,6
+25,Cement Construction House,136.38,-9.0,98.0,365,Large,Importer,Construction,0,2,9
+26,Herbal Pharmaceuticals House,6.63,-5.21,82.46,34,Small,Both,Pharmaceuticals,2,0,6
+27,El Resorts Tourism,28.18,3.77,82.96,95,Medium,Importer,Tourism,0,1,2
+28,Silver Metals Group,54.84,-10.0,95.73,176,Medium,Exporter,Metals,1,1,3
+29,Outdoor Furniture Industries,15.71,8.3,72.37,67,Small,Exporter,Furniture,1,0,4
+30,Medicine Pharmaceuticals Egypt,11.8,4.76,90.52,50,Medium,Exporter,Pharmaceuticals,1,1,6
+31,Premium Garments Textiles,2.44,-2.18,68.62,31,Small,Importer,Textiles,0,0,1
+32,Communications Electronics Egypt,95.82,-10.0,89.33,304,Medium,Exporter,Electronics,1,1,8
+33,Cosmetics Chemicals Trading Egypt,63.24,-8.79,76.43,200,Medium,Importer,Chemicals,0,1,5
+34,International Detergents Chemicals Egypt,12.66,-10.0,89.34,53,Small,Exporter,Chemicals,1,0,5
+35,Modern Detergents Chemicals,246.96,-4.68,57.73,365,Large,Both,Chemicals,2,2,5
+36,Golden Vegetables Agriculture,377.44,0.49,88.86,365,Large,Importer,Agriculture,0,2,0
+37,Pottery Handicrafts Exports,3.99,-10.0,79.78,27,Small,Importer,Handicrafts,0,0,10
+38,Golden Herbal Pharmaceuticals,14.32,11.62,80.78,61,Small,Exporter,Pharmaceuticals,1,0,6
+39,Egypt Medicine Pharmaceuticals Company,292.77,-6.98,62.99,365,Large,Both,Pharmaceuticals,2,2,6
+40,Greater Cairo Dates Agriculture,20.19,-10.0,82.29,78,Small,Importer,Agriculture,0,0,0
+41,Greater Cairo Spices Food Processing,1.23,-9.32,79.58,25,Small,Importer,Food Processing,0,0,7
+42,Delta Computers Electronics,67.54,4.41,64.35,217,Medium,Exporter,Electronics,1,1,8
+43,Canned Foods Food Processing of Egypt,19.06,-8.9,69.01,68,Medium,Exporter,Food Processing,1,1,7
+44,Ancient Detergents Chemicals,47.07,-2.95,87.23,166,Medium,Both,Chemicals,2,1,5
+45,Medicine Pharmaceuticals Trading Egypt,18.59,2.99,83.19,72,Small,Importer,Pharmaceuticals,0,0,6
+46,Premium Bricks Construction,14.02,-9.41,71.26,58,Medium,Importer,Construction,0,1,9
+47,Ancient Copper Metals,8.87,-0.7,67.75,44,Small,Exporter,Metals,1,0,3
+48,Upper Egypt Fabrics Textiles,13.79,-6.26,78.46,42,Small,Both,Textiles,2,0,1
+49,Fruits Agriculture Trading Egypt,15.47,-10.0,64.61,55,Small,Exporter,Agriculture,1,0,0
+50,Herbal Pharmaceuticals Egypt,13.2,-5.4,70.65,56,Small,Importer,Pharmaceuticals,0,0,6
+51,Souvenirs Tourism Group,1.89,10.09,78.75,18,Small,Exporter,Tourism,1,0,2
+52,United Dates Agriculture,71.45,-3.1,83.24,231,Medium,Both,Agriculture,2,1,0
+53,Glass Construction Exports,429.23,2.37,86.0,365,Large,Both,Construction,2,2,9
+54,Premium Canned Foods Food Processing,27.62,14.92,72.08,84,Medium,Both,Food Processing,2,1,7
+55,Glass Construction Trading Egypt,15.27,-4.6,74.2,67,Small,Exporter,Construction,1,0,9
+56,Golden Bricks Construction,289.87,-7.01,87.23,365,Large,Both,Construction,2,2,9
+57,Premium Office Furniture,78.33,12.13,79.31,238,Medium,Importer,Furniture,0,1,4
+58,Cairo Aluminum Metals,401.48,-10.0,97.19,365,Large,Exporter,Metals,1,2,3
+59,Souvenirs Tourism Trading Egypt,34.27,4.1,55.24,111,Medium,Importer,Tourism,0,1,2
+60,Aluminum Metals Group,288.31,7.81,88.68,365,Large,Both,Metals,2,2,3
+61,Cairo Components Electronics,5.5,1.41,64.59,42,Small,Importer,Electronics,0,0,8
+62,Beverages Food Processing Egypt,47.85,-10.0,82.34,162,Medium,Importer,Food Processing,0,1,7
+63,Garments Textiles Egypt,25.95,12.94,72.98,96,Medium,Exporter,Textiles,1,1,1
+64,Golden Steel Metals,24.18,-3.59,70.47,80,Medium,Both,Metals,2,1,3
+65,Alexandria Silver Metals,322.1,14.27,96.55,365,Large,Exporter,Metals,1,2,3
+66,International Papyrus Handicrafts Egypt,394.01,-3.44,86.17,365,Large,Importer,Handicrafts,0,2,10
+67,Transportation Tourism Group,8.46,-10.0,77.97,41,Small,Exporter,Tourism,1,0,2
+68,Dates Agriculture Trading Egypt,9.66,2.28,98.0,50,Small,Both,Agriculture,2,0,0
+69,Delta Flowers Agriculture,110.94,4.54,71.93,351,Medium,Exporter,Agriculture,1,1,0
+70,Sohag Souvenirs Tourism,166.06,-10.0,98.0,365,Large,Importer,Tourism,0,2,2
+71,Ancient Appliances Electronics,40.87,-1.67,98.0,136,Medium,Both,Electronics,2,1,8
+72,Egyptian Metal Furniture,4.82,-7.81,71.29,27,Small,Importer,Furniture,0,0,4
+73,Delta Medicine Pharmaceuticals,68.43,-9.09,86.19,215,Medium,Importer,Pharmaceuticals,0,1,6
+74,International Glass Construction Egypt,242.87,7.75,92.77,365,Large,Importer,Construction,0,2,9
+75,Greater Cairo Steel Metals,16.39,-2.57,77.99,59,Small,Both,Metals,2,0,3
+76,Glass Construction of Egypt,26.57,-1.25,80.59,93,Medium,Exporter,Construction,1,1,9
+77,Craft Tourism Industries,30.57,-10.0,78.44,108,Medium,Importer,Tourism,0,1,2
+78,Upper Egypt Flowers Agriculture,95.03,-1.89,75.5,298,Medium,Importer,Agriculture,0,1,0
+79,Vitamins Pharmaceuticals Exports,363.94,-10.0,80.36,365,Large,Importer,Pharmaceuticals,0,2,6
+80,Royal Wooden Furniture,5.91,-7.47,74.0,27,Small,Exporter,Furniture,1,0,4
+81,Beverages Food Processing Industries,15.83,-10.0,95.3,57,Small,Both,Food Processing,2,0,7
+82,International Paints Chemicals Egypt,3.87,1.72,77.83,26,Small,Importer,Chemicals,0,0,5
+83,Golden Gold Metals,35.17,-6.5,98.0,118,Medium,Importer,Metals,0,1,3
+84,Paints Chemicals Exports,16.67,3.59,85.99,52,Medium,Importer,Chemicals,0,1,5
+85,El Transportation Tourism,80.49,-3.01,80.1,253,Large,Importer,Tourism,0,2,2
+86,Alexandria Gold Metals,107.4,-10.0,98.0,334,Large,Importer,Metals,0,2,3
+87,Golden Beverages Food Processing,242.46,-0.79,84.4,365,Large,Exporter,Food Processing,1,2,7
+88,Royal Canned Foods Food Processing,64.11,-10.0,73.45,204,Medium,Exporter,Food Processing,1,1,7
+89,Brassware Handicrafts Exports,4.71,6.82,69.79,31,Small,Exporter,Handicrafts,1,0,10
+90,Premium Rugs Textiles,19.45,7.25,86.43,62,Small,Both,Textiles,2,0,1
+91,Components Electronics Exports,59.22,12.74,75.07,198,Medium,Both,Electronics,2,1,8
+92,Nile Beverages Food Processing,94.95,-10.0,72.61,292,Medium,Exporter,Food Processing,1,1,7
+93,Modern Office Furniture,13.46,-10.0,77.93,49,Small,Exporter,Furniture,1,0,4
+94,Sinai Garments Textiles,58.44,-10.0,75.44,184,Medium,Importer,Textiles,0,1,1
+95,Suez Medicine Pharmaceuticals,15.39,-9.0,61.95,59,Small,Importer,Pharmaceuticals,0,0,6
+96,Nile Medical Supplies Pharmaceuticals,43.85,-10.0,63.87,139,Medium,Both,Pharmaceuticals,2,1,6
+97,Ancient Components Electronics,7.77,-10.0,69.74,42,Small,Importer,Electronics,0,0,8
+98,Spices Food Processing Trading Egypt,14.2,5.97,74.18,45,Medium,Importer,Food Processing,0,1,7
+99,International Dairy Food Processing Egypt,5.15,-10.0,93.62,29,Small,Importer,Food Processing,0,0,7
+100,Ancient Fertilizers Chemicals,45.37,-10.0,80.59,142,Medium,Exporter,Chemicals,1,1,5
+101,Delta Confectionery Food Processing,9.67,-3.76,87.77,39,Small,Importer,Food Processing,0,0,7
+102,Ancient Fruits Agriculture,657.23,10.69,92.84,365,Large,Both,Agriculture,2,2,0
+103,Grains Agriculture Egypt,496.67,-6.6,78.47,365,Large,Importer,Agriculture,0,2,0
+104,Egypt Resorts Tourism Company,2.27,-5.55,74.31,27,Small,Exporter,Tourism,1,0,2
+105,Greater Cairo Metal Furniture,83.77,4.91,79.74,256,Medium,Both,Furniture,2,1,4
+106,Egypt Vitamins Pharmaceuticals Company,9.31,5.46,79.88,36,Small,Importer,Pharmaceuticals,0,0,6
+107,Cairo Office Furniture,91.91,13.12,96.02,292,Medium,Importer,Furniture,0,1,4
+108,International Cosmetics Chemicals Egypt,24.23,-1.98,85.17,100,Medium,Exporter,Chemicals,1,1,5
+109,Pharaoh Jewelry Handicrafts,13.46,-4.3,63.02,48,Small,Both,Handicrafts,2,0,10
+110,Components Electronics of Egypt,50.51,9.34,85.92,167,Medium,Exporter,Electronics,1,1,8
+111,Nile Delta Office Furniture,4.53,-6.09,58.29,22,Small,Importer,Furniture,0,0,4
+112,Canned Foods Food Processing Group,7.69,-10.0,65.46,29,Small,Both,Food Processing,2,0,7
+113,Premium Copper Metals,363.95,15.01,98.0,365,Large,Both,Metals,2,2,3
+114,Spices Food Processing of Egypt,79.12,-4.93,75.27,249,Medium,Both,Food Processing,2,1,7
+115,Egyptian Brassware Handicrafts,510.8,3.27,93.43,365,Large,Both,Handicrafts,2,2,10
+116,Suez Canal Medicine Pharmaceuticals,466.71,-4.15,92.22,365,Large,Importer,Pharmaceuticals,0,2,6
+117,Cairo Beverages Food Processing,5.93,-0.42,88.67,40,Small,Importer,Food Processing,0,0,7
+118,United Detergents Chemicals,12.52,4.11,74.77,49,Small,Exporter,Chemicals,1,0,5
+119,Egypt Office Furniture Company,8.97,-8.11,95.04,36,Small,Importer,Furniture,0,0,4
+120,Egypt Vegetables Agriculture Company,9.98,-4.52,62.61,43,Small,Exporter,Agriculture,1,0,0
+121,Ancient Leather Handicrafts,11.11,-6.8,69.9,33,Small,Exporter,Handicrafts,1,0,10
+122,Communications Electronics Exports,17.66,-6.62,79.17,64,Small,Both,Electronics,2,0,8
+123,Dates Agriculture Exports,591.5,-3.38,89.02,365,Large,Both,Agriculture,2,2,0
+124,International Office Furniture Egypt,28.98,-10.0,85.23,92,Medium,Importer,Furniture,0,1,4
+125,Greater Cairo Plastics Chemicals,55.75,6.82,83.2,179,Medium,Importer,Chemicals,0,1,5
+126,Nile Spices Food Processing,21.71,2.56,79.63,88,Medium,Exporter,Food Processing,1,1,7
+127,Upper Egypt Wooden Furniture,63.67,11.87,86.41,202,Medium,Both,Furniture,2,1,4
+128,Nile Fertilizers Chemicals,54.18,-3.17,85.16,163,Medium,Exporter,Chemicals,1,1,5
+129,Premium Vegetables Agriculture,530.64,-1.78,74.72,365,Large,Exporter,Agriculture,1,2,0
+130,Egyptian Communications Electronics,271.49,-10.0,98.0,365,Large,Importer,Electronics,0,2,8
+131,Pharaoh Aluminum Metals,4.73,-3.24,59.35,26,Small,Exporter,Metals,1,0,3
+132,El Glass Construction,37.79,-3.23,83.09,131,Medium,Both,Construction,2,1,9
+133,Zagazig Cement Construction,13.97,-10.0,80.37,56,Small,Exporter,Construction,1,0,9
+134,Pharaoh Medical Supplies Pharmaceuticals,78.18,8.2,98.0,240,Medium,Exporter,Pharmaceuticals,1,1,6
+135,Cotton Textiles Group,16.09,11.82,91.36,59,Small,Importer,Textiles,0,0,1
+136,Golden Cement Construction,7.21,-0.03,98.0,40,Small,Both,Construction,2,0,9
+137,Premium Medicine Pharmaceuticals,12.52,-10.0,87.79,60,Medium,Both,Pharmaceuticals,2,1,6
+138,Paints Chemicals of Egypt,10.78,2.23,82.28,42,Small,Exporter,Chemicals,1,0,5
+139,Plastics Chemicals Egypt,18.8,-10.0,70.54,73,Small,Importer,Chemicals,0,0,5
+140,Modern Herbal Pharmaceuticals,4.06,-4.55,92.15,22,Small,Exporter,Pharmaceuticals,1,0,6
+141,Cairo Dairy Food Processing,12.36,5.43,95.85,45,Small,Importer,Food Processing,0,0,7
+142,6th of October Herbal Pharmaceuticals,484.92,-2.54,98.0,365,Large,Both,Pharmaceuticals,2,2,6
+143,El Ceramics Construction,92.52,-9.76,68.06,290,Medium,Importer,Construction,0,1,9
+144,Nile Transportation Tourism,9.37,-7.43,76.06,40,Small,Exporter,Tourism,1,0,2
+145,Damanhur Components Electronics,10.14,-9.7,57.86,55,Small,Exporter,Electronics,1,0,8
+146,Fruits Agriculture Exports,17.47,-0.78,72.18,68,Small,Both,Agriculture,2,0,0
+147,Delta Aluminum Metals,62.77,-0.64,88.02,201,Large,Exporter,Metals,1,2,3
+148,Delta Cement Construction,37.04,-7.47,75.71,122,Medium,Both,Construction,2,1,9
+149,Craft Tourism House,53.79,-4.15,79.14,170,Medium,Importer,Tourism,0,1,2
+150,Golden Metal Furniture,90.8,17.08,93.44,280,Medium,Importer,Furniture,0,1,4
+151,Alexandria Spices Food Processing,6.11,-4.56,69.81,36,Small,Exporter,Food Processing,1,0,7
+152,Plastics Chemicals House,11.95,-1.18,87.76,41,Small,Both,Chemicals,2,0,5
+153,Upper Egypt Paints Chemicals,13.05,4.49,97.79,44,Small,Importer,Chemicals,0,0,5
+154,Royal Detergents Chemicals,10.8,-7.18,73.27,50,Small,Importer,Chemicals,0,0,5
+155,Hotels Tourism Group,545.37,10.37,95.14,365,Large,Importer,Tourism,0,2,2
+156,Upper Egypt Craft Tourism,1.98,-10.0,68.04,14,Small,Both,Tourism,2,0,2
+157,Ceramics Construction House,5.51,0.75,71.0,30,Small,Both,Construction,2,0,9
+158,Royal Papyrus Handicrafts,181.27,3.94,98.0,365,Large,Exporter,Handicrafts,1,2,10
+159,Medical Supplies Pharmaceuticals Exports,1.63,3.2,57.52,20,Small,Exporter,Pharmaceuticals,1,0,6
+160,Marble Construction House,6.08,7.18,76.26,31,Small,Importer,Construction,0,0,9
+161,Greater Cairo Brassware Handicrafts,64.6,-5.44,80.51,209,Medium,Exporter,Handicrafts,1,1,10
+162,Sohag Cosmetics Chemicals,4.04,1.3,95.34,25,Small,Both,Chemicals,2,0,5
+163,Delta Craft Tourism,1.75,14.33,65.32,25,Small,Exporter,Tourism,1,0,2
+164,Craft Tourism Egypt,5.84,2.41,80.09,31,Small,Importer,Tourism,0,0,2
+165,Alexandria Jewelry Handicrafts,11.54,-6.14,84.33,48,Small,Both,Handicrafts,2,0,10
+166,Pharaoh Marble Construction,326.23,-9.05,87.63,365,Large,Exporter,Construction,1,2,9
+167,Modern Papyrus Handicrafts,44.16,-10.0,77.55,153,Medium,Both,Handicrafts,2,1,10
+168,Cairo Resorts Tourism,1.83,-0.89,80.82,12,Small,Importer,Tourism,0,0,2
+169,Greater Cairo Flowers Agriculture,11.03,-9.45,64.47,42,Small,Exporter,Agriculture,1,0,0
+170,United Components Electronics,2.82,-2.45,70.36,3,Small,Exporter,Electronics,1,0,8
+171,United Paints Chemicals,6.48,14.42,84.4,34,Small,Both,Chemicals,2,0,5
+172,El Arish Gold Metals,60.91,-3.84,79.87,194,Medium,Exporter,Metals,1,1,3
+173,Appliances Electronics Industries,75.86,10.63,63.18,250,Medium,Importer,Electronics,0,1,8
+174,Outdoor Furniture Exports,19.25,-10.0,57.39,66,Small,Both,Furniture,2,0,4
+175,Fayoum Components Electronics,11.97,13.62,78.41,49,Small,Exporter,Electronics,1,0,8
+176,Royal Confectionery Food Processing,268.01,9.72,91.54,365,Large,Exporter,Food Processing,1,2,7
+177,Computers Electronics of Egypt,293.85,3.19,73.36,365,Large,Both,Electronics,2,2,8
+178,Pharaoh Computers Electronics,24.53,5.22,73.63,82,Medium,Importer,Electronics,0,1,8
+179,Red Sea Detergents Chemicals,21.99,3.91,76.23,84,Medium,Both,Chemicals,2,1,5
+180,Cairo Fabrics Textiles,575.04,-10.0,98.0,365,Large,Importer,Textiles,0,2,1
+181,Cairo Papyrus Handicrafts,322.82,0.72,84.49,365,Large,Both,Handicrafts,2,2,10
+182,Rugs Textiles Trading Egypt,4.35,7.55,60.02,24,Small,Both,Textiles,2,0,1
+183,Garments Textiles of Egypt,449.4,7.96,91.71,365,Large,Both,Textiles,2,2,1
+184,Egypt Beverages Food Processing Company,383.88,5.53,90.99,365,Large,Both,Food Processing,2,2,7
+185,Resorts Tourism Trading Egypt,9.19,4.7,60.71,34,Small,Exporter,Tourism,1,0,2
+186,Nile Garments Textiles,9.49,-9.11,93.3,44,Small,Exporter,Textiles,1,0,1
+187,Red Sea Components Electronics,389.93,-10.0,77.3,365,Large,Both,Electronics,2,2,8
+188,Carpets Textiles Group,5.88,-10.0,89.85,40,Small,Both,Textiles,2,0,1
+189,Canned Foods Food Processing Trading Egypt,86.68,-7.13,83.7,274,Medium,Both,Food Processing,2,1,7
+190,Copper Metals House,11.78,-3.04,84.15,43,Small,Exporter,Metals,1,0,3
+191,Brassware Handicrafts of Egypt,73.18,13.86,77.47,235,Medium,Both,Handicrafts,2,1,10
+192,Nile Dates Agriculture,12.0,-10.0,84.83,46,Small,Importer,Agriculture,0,0,0
+193,Cairo Appliances Electronics,579.51,-6.89,82.2,365,Large,Importer,Electronics,0,2,8
+194,Mediterranean Coast Cotton Textiles,13.15,-10.0,96.0,56,Small,Both,Textiles,2,0,1
+195,Sinai Souvenirs Tourism,2.49,5.48,72.66,18,Small,Exporter,Tourism,1,0,2
+196,Upper Egypt Ceramics Construction,9.48,6.42,76.7,34,Small,Both,Construction,2,0,9
+197,Pharaoh Beverages Food Processing,45.63,-4.03,68.73,152,Medium,Both,Food Processing,2,1,7
+198,Rugs Textiles of Egypt,374.45,-9.83,82.99,365,Large,Importer,Textiles,0,2,1
+199,Mansoura Fruits Agriculture,1.98,-2.46,83.35,3,Small,Both,Agriculture,2,0,0
+200,Cairo Fertilizers Chemicals,109.09,15.15,85.29,340,Large,Importer,Chemicals,0,2,5
