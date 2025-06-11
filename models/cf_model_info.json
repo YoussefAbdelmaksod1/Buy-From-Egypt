@@ -1,0 +1,8 @@
+{
+  "n_customers": 500,
+  "n_products": 1000,
+  "embedding_dim": 32,
+  "best_val_loss": 0.006697051608088342,
+  "training_samples": 43988,
+  "validation_samples": 10998
+}

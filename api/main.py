@@ -267,9 +267,13 @@ async def recommend_for_business(
         )
         
         # Generate business partner recommendations
-        partner_recommendations = recommendation_engine.recommend_business_partners(
-            business_name, num_partner_recommendations
-        )
+        try:
+            partner_recommendations = recommendation_engine.recommend_business_partners(
+                business_name, num_partner_recommendations
+            )
+        except Exception as e:
+            logger.warning(f"Business partner recommendations failed for {business_name}: {e}")
+            partner_recommendations = []
         
         # Apply economic context if requested
         if apply_economic_context and product_recommendations:
@@ -397,9 +401,13 @@ async def export_business_recommendations(
             business_name, num_product_recommendations
         )
         
-        partner_recommendations = recommendation_engine.recommend_business_partners(
-            business_name, num_partner_recommendations
-        )
+        try:
+            partner_recommendations = recommendation_engine.recommend_business_partners(
+                business_name, num_partner_recommendations
+            )
+        except Exception as e:
+            logger.warning(f"Business partner recommendations failed for {business_name}: {e}")
+            partner_recommendations = []
         
         # Apply Egyptian economic context
         product_recommendations = recommendation_engine.combine_with_economic_context(product_recommendations)

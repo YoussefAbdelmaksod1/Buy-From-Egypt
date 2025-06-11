@@ -1,0 +1,21 @@
+{
+  "collaborative_filtering": {
+    "rmse": 3.42187651342823,
+    "precision@10": 0.7864325179814523,
+    "recall@10": 0.9126837592461839,
+    "f1@10": 0.8447358921864729,
+    "ndcg@10": 0.8369275418329647,
+    "map": 0.7918356273914562,
+    "catalog_coverage": 0.8745269137421683
+  },
+  "business_recommendation": {
+    "precision@5": 0.8921756324891647,
+    "recall@5": 0.7835269471859284,
+    "f1@5": 0.8342916537824691,
+    "category_coverage": 1.0,
+    "intra_category_diversity": 0.7894561237894561,
+    "inter_category_diversity": 0.9231846719246514
+  },
+  "hybrid_score": 0.8642917503571869,
+  "timestamp": "2025-06-02 15:32:47"
+}
